@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\laris\OneDrive\ƒокументы\VuGen\Scripts\UC_4_Buying_a_ticket_without_viewing_reservation
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\laris\onedrive\документы\vugen\scripts\uc_4_buying_a_ticket_without_viewing_reservation\\logfile.log
+c:\users\laris\onedrive\документы\vugen\scripts\uc_4_buying_a_ticket_without_viewing_reservation\\combined_UC_4_Buying_a_ticket_without_viewing_reservation.c
+c:\users\laris\onedrive\документы\vugen\scripts\uc_4_buying_a_ticket_without_viewing_reservation\\pre_cci.c

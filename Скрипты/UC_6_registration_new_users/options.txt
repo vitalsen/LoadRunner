@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\laris\OneDrive\ƒокументы\VuGen\Scripts\UC_6_registration_new_users
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\laris\onedrive\документы\vugen\scripts\uc_6_registration_new_users\\logfile.log
+c:\users\laris\onedrive\документы\vugen\scripts\uc_6_registration_new_users\\combined_UC_6_registration_new_users.c
+c:\users\laris\onedrive\документы\vugen\scripts\uc_6_registration_new_users\\pre_cci.c

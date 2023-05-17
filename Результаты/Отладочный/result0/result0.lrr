@@ -1,0 +1,42 @@
+[Scenario]
+Product=HPE LoadRunner Controller
+Version=12.55.0.0
+Path=C:\ScenarioLR\Scenario1.lrs
+Subject=Scenario1
+Result_file=c:\resultlr\result0\result0.lrr
+Description=
+ResultName=result0
+Time_Zone=-10800
+Start_time=1684168402
+Daylight_Bias=0
+Stop_time=1684169867
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers: 1 every 00:00:02 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:02 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+[Scripts]
+UC_1_Buy_a_ticket=C:\Skripts\VuGen\Scripts\UC_1_Buy_a_ticket\UC_1_Buy_a_ticket.usr
+UC_7_Login_logout=C:\Skripts\VuGen\Scripts\UC_7_Login_logout\UC_7_Login_logout.usr
+UC_3_Search_tickets_without_payment=C:\Skripts\VuGen\Scripts\UC_3_Search_tickets_without_payment\UC_3_Search_tickets_without_payment.usr
+UC_5_Check_reservation=C:\Skripts\VuGen\Scripts\UC_5_Check_reservation\UC_5_Check_reservation.usr
+UC_2_Deliting_a_reservation=C:\Skripts\VuGen\Scripts\UC_2_Deliting_a_reservation\UC_2_Deliting_a_reservation.usr
+UC_6_registration_new_users=C:\Skripts\VuGen\Scripts\UC_6_registration_new_users\UC_6_registration_new_users.usr
+[Scripts_types]
+UC_1_Buy_a_ticket=Multi+QTWeb
+UC_7_Login_logout=Multi+QTWeb
+UC_3_Search_tickets_without_payment=Multi+QTWeb
+UC_5_Check_reservation=Multi+QTWeb
+UC_2_Deliting_a_reservation=Multi+QTWeb
+UC_6_registration_new_users=Multi+QTWeb

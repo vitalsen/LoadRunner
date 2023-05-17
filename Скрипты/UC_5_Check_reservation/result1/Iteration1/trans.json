@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "open_site",
+        "rawStartTime": 1684164340195,
+        "rawEndTime": 1684164340760
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1684164345801,
+        "rawEndTime": 1684164345978
+    },
+    {
+        "transactionName": "go_to_flights",
+        "rawStartTime": 1684164351019,
+        "rawEndTime": 1684164351136
+    },
+    {
+        "transactionName": "Check_ticket",
+        "rawStartTime": 1684164356175,
+        "rawEndTime": 1684164356333
+    },
+    {
+        "transactionName": "log_out",
+        "rawStartTime": 1684164361366,
+        "rawEndTime": 1684164361466
+    },
+    {
+        "transactionName": "5_Skript_Check_reservation",
+        "rawStartTime": 1684164340087,
+        "rawEndTime": 1684164361478
+    }
+]

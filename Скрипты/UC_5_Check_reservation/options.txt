@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Skripts\VuGen\Scripts\UC_5_Check_reservation
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\skripts\vugen\scripts\uc_5_check_reservation\\logfile.log
+c:\skripts\vugen\scripts\uc_5_check_reservation\\combined_UC_5_Check_reservation.c
+c:\skripts\vugen\scripts\uc_5_check_reservation\\pre_cci.c
