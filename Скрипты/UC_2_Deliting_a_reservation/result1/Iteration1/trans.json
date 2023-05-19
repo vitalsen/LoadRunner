@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "open_site",
+        "rawStartTime": 1684401489913,
+        "rawEndTime": 1684401490125
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1684401490144,
+        "rawEndTime": 1684401490307
+    },
+    {
+        "transactionName": "Check_ticket",
+        "rawStartTime": 1684401490328,
+        "rawEndTime": 1684401490494
+    },
+    {
+        "transactionName": "Cancel_reservation",
+        "rawStartTime": 1684401490513,
+        "rawEndTime": 1684401490780
+    },
+    {
+        "transactionName": "log_out",
+        "rawStartTime": 1684401490811,
+        "rawEndTime": 1684401490922
+    },
+    {
+        "transactionName": "2_script_delete_reservation",
+        "rawStartTime": 1684401489805,
+        "rawEndTime": 1684401490935
+    }
+]

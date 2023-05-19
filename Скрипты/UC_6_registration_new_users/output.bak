@@ -1,0 +1,41 @@
+Virtual User Script started at: 18.05.2023 12:01:56
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (èþë 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Skripts\VuGen\Scripts\UC_6_registration_new_users\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(5): Notify: Transaction "01_Reg_new_user" started.
+..\\Parameters\\common.h(2): Notify: Transaction "open_site" started.
+..\\Parameters\\common.h(3): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(3): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(6): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(6): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(11): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(11): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+..\\Parameters\\common.h(11): Error -26366: "Text=<title>Web Tours</title>" not found for web_reg_find  	[MsgId: MERR-26366]
+..\\Parameters\\common.h(11): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\Parameters\\common.h(11): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+..\\Parameters\\common.h(11): web_url("WebTours") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+..\\Parameters\\common.h(11): Notify: Transaction "open_site" ended with a "Fail" status (Duration: 2.4405 Wasted Time: 0.1599).
+..\\Parameters\\common.h(11): Notify: Transaction "open_site" has 4 error message(s).
+..\\Parameters\\common.h(11): Notify: The 1st error message associated with transaction "open_site" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"
+..\\Parameters\\common.h(11): Notify: The 2nd error message associated with transaction "open_site" is "Error -26366: "Text=<title>Web Tours</title>" not found for web_reg_find"
+..\\Parameters\\common.h(11): Notify: The 3rd error message associated with transaction "open_site" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."
+..\\Parameters\\common.h(11): Notify: The 4th error message associated with transaction "open_site" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."
+..\\Parameters\\common.h(11): Notify: Transaction "01_Reg_new_user" ended with a "Fail" status (Duration: 2.4461 Wasted Time: 0.1599).
+..\\Parameters\\common.h(11): Notify: Transaction "01_Reg_new_user" has 4 error message(s).
+..\\Parameters\\common.h(11): Notify: The 1st error message associated with transaction "01_Reg_new_user" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"
+..\\Parameters\\common.h(11): Notify: The 2nd error message associated with transaction "01_Reg_new_user" is "Error -26366: "Text=<title>Web Tours</title>" not found for web_reg_find"
+..\\Parameters\\common.h(11): Notify: The 3rd error message associated with transaction "01_Reg_new_user" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."
+..\\Parameters\\common.h(11): Notify: The 4th error message associated with transaction "01_Reg_new_user" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
