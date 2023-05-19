@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\laris\OneDrive\ƒокументы\VuGen\Scripts\UC_3_Search_tickets_without_payment
--IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\logfile.log
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\combined_UC_3_Search_tickets_without_payment.c
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c

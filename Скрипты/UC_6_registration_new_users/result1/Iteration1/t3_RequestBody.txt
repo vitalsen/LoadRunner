@@ -1,2 +1,0 @@
-"username=Iflj&password=Iflj&passwordConfirm=Iflj&firstName=Svetlana&lastName=Kukushkina&addres"
-"s1=Oktiabra&address2=Moskow&register.x=54&register.y=9"
