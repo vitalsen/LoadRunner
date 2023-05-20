@@ -1,2 +1,0 @@
-"username=Qfwd&password=Qfwd&passwordConfirm=Qfwd&firstName=Rezeda&lastName=Petrov&address1=Okt"
-"iabra&address2=Moscow&register.x=54&register.y=9"
