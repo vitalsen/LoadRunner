@@ -1,12 +1,16 @@
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:22: warning: missing return value
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:22: warning: empty declaration
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:61: warning: missing return value
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:61: warning: empty declaration
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:87: warning: missing return value
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:87: warning: empty declaration
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:110: warning: missing return value
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:110: warning: empty declaration
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:129: warning: missing return value
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:129: warning: empty declaration
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:196: warning: missing return value
-c:\users\laris\onedrive\документы\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:196: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:22: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:22: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:61: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:61: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:87: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:87: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:117: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:117: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:136: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:136: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:206: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:206: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:243: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:243: warning: empty declaration
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:267: warning: missing return value
+c:\skripts\vugen\scripts\uc_3_search_tickets_without_payment\\pre_cci.c: ..\\Parameters\\common.h:267: warning: empty declaration

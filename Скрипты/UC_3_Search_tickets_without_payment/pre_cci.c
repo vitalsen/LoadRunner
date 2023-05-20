@@ -1,4 +1,4 @@
-# 1 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c"
+# 1 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c"
 # 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lrun.h" 1
  
  
@@ -962,7 +962,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
+# 1 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
 
 # 1 "C:\\Program Files (x86)\\HPE\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1126,7 +1126,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
+# 2 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
 
 # 1 "globals.h" 1
 
@@ -2668,6 +2668,13 @@ web_reg_find("Text=<b>Find Flight<","LAST");
 };
 
 check_tiket(){lr_start_transaction("Check_ticket");
+	
+	web_reg_save_param("flightID",
+	"LB=flightID\" value=\"",
+	"RB=\"",
+	"LAST");
+	                   
+	
 
 	web_add_header("Sec-Fetch-User", 
 		"?1");
@@ -2743,6 +2750,8 @@ findflight(){lr_start_transaction("fing_flight");
 		"Ord=ALL",
 		"LAST");
 		
+		
+
 
 	
 
@@ -2760,7 +2769,7 @@ findflight(){lr_start_transaction("fing_flight");
 		"Name=advanceDiscount", "Value=0", "ENDITEM", 
 		"Name=depart", "Value={DepartureCity}", "ENDITEM", 
 		"Name=departDate", "Value={departDate}", "ENDITEM", 
-		"Name=arrive", "Value={ArrivalCity} ", "ENDITEM", 
+		"Name=arrive", "Value={ArrivalCity}", "ENDITEM", 
 		"Name=returnDate", "Value={returnDate}", "ENDITEM", 
 		"Name=numPassengers", "Value={countPass}", "ENDITEM",
 		"Name=roundtrip", "Value={roundtrip}", "ENDITEM",
@@ -2772,11 +2781,71 @@ findflight(){lr_start_transaction("fing_flight");
 		"Name=.cgifields", "Value=seatType", "ENDITEM", 
 		"Name=.cgifields", "Value=seatPref", "ENDITEM", 
 		"LAST");
+		lr_save_string(lr_paramarr_random("outboundFlight"), "randomFlight");
 		
 
 	lr_end_transaction("fing_flight",2);};
+cancelreservation(){lr_start_transaction("Cancel_reservation");
+	
+	web_reg_find("Fail=Found",
+	"Text={flightID}",
+	"LAST");
+	
 
+	web_add_header("Origin", 
+		"http://localhost:1080");
 
+	web_add_header("Sec-Fetch-Dest", 
+		"frame");
+
+	web_add_header("Sec-Fetch-Mode", 
+		"navigate");
+
+	web_add_header("Sec-Fetch-Site", 
+		"same-origin");
+
+	web_add_header("Sec-Fetch-User", 
+		"?1");
+
+	web_add_header("Upgrade-Insecure-Requests", 
+		"1");
+
+	web_reg_find("Text=Flights List",
+		"LAST");
+
+	web_submit_form("itinerary.pl", 
+    "Snapshot=t100.inf", 
+    "ITEMDATA", 
+    "Name=1", "Value=on", "ENDITEM",  
+    "Name=removeFlights.x", "Value=72", "ENDITEM", 
+    "Name=removeFlights.y", "Value=1", "ENDITEM", 
+    "LAST");
+
+	lr_end_transaction("Cancel_reservation",2);};
+selectticket(){lr_start_transaction("select_ticket");
+	
+	web_reg_find("Text=Street Address",
+		"LAST");
+
+	web_submit_data("reservations.pl_2",
+		"Action=http://localhost:1080/cgi-bin/reservations.pl",
+		"Method=POST",
+		"TargetFrame=",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/reservations.pl",
+		"Snapshot=t12.inf",
+		"Mode=HTML",
+		"ITEMDATA",
+		"Name=outboundFlight", "Value={outboundFlight}", "ENDITEM",
+		"Name=numPassengers", "Value=1", "ENDITEM",
+		"Name=advanceDiscount", "Value=0", "ENDITEM",
+		"Name=seatType", "Value=First", "ENDITEM",
+		"Name=seatPref", "Value=Window", "ENDITEM",
+		"Name=reserveFlights.x", "Value=48", "ENDITEM",
+		"Name=reserveFlights.y", "Value=13", "ENDITEM",
+		"LAST");
+
+	lr_end_transaction("select_ticket",2);};
 
 
 
@@ -2812,14 +2881,14 @@ findflight(){lr_start_transaction("fing_flight");
  
 
 
-# 3 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
+# 3 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
+# 4 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2862,103 +2931,14 @@ Action()
 	
 	lr_think_time(5);	
 	
-	lr_start_transaction("fing_flight");
-	
- 
-	web_reg_save_param_attrib(
-		"ParamName=outboundFlight",
-		"TagName=input",
-		"Extract=value",
-		"Name=outboundFlight",
-		"Type=radio",
-		"SEARCH_FILTERS",
-		"IgnoreRedirections=No",
-		"LAST");
-	web_add_auto_header("Origin", 
-		"http://localhost:1080");
-
-	web_reg_find("Text=Flight departing from ",
-		"LAST");
-		
-		web_reg_find("Text=from <B>{DepartureCity}</B> to <B>{ArrivalCity}</B> on <B>{departDate}</B>",
-		"LAST");
-	 web_reg_find("Text=from <B>{ArrivalCity}</B> to <B>{DepartureCity}</B> on <B>{returnDate}</B>",
-		"LAST");
-		web_reg_save_param("outboundFlight",
-		"LB/IC=name=\"outboundFlight\" value=\"",
-		"RB/IC=\"",
-		"Ord=ALL",
-		"LAST");
-
-	
-	web_reg_save_param("returnFlight",
-		"LB/IC=\"returnFlight\" value=\"",
-		"RB/IC=\"",
-		"Ord=ALL",
-		"LAST");
-		
-
-	
-
-
-
-	web_submit_data("reservations.pl", 
-		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/cgi-bin/reservations.pl?page=welcome", 
-		"Snapshot=t11.inf", 
-		"Mode=HTML", 
-		"ITEMDATA", 
-		"Name=advanceDiscount", "Value=0", "ENDITEM", 
-		"Name=depart", "Value={DepartureCity}", "ENDITEM", 
-		"Name=departDate", "Value={departDate}", "ENDITEM", 
-		"Name=arrive", "Value={ArrivalCity}", "ENDITEM", 
-		"Name=returnDate", "Value={returnDate}", "ENDITEM", 
-		"Name=numPassengers", "Value={countPass}", "ENDITEM",
-		"Name=roundtrip", "Value={roundtrip}", "ENDITEM",
-		"Name=seatPref", "Value={seating_preference}", "ENDITEM", 
-		"Name=seatType", "Value={type_of_seat}", "ENDITEM", 
-		"Name=findFlights.x", "Value=55", "ENDITEM", 
-		"Name=findFlights.y", "Value=11", "ENDITEM", 
-		"Name=.cgifields", "Value=roundtrip", "ENDITEM", 
-		"Name=.cgifields", "Value=seatType", "ENDITEM", 
-		"Name=.cgifields", "Value=seatPref", "ENDITEM", 
-		"LAST");
-		
-
-	lr_end_transaction("fing_flight",2);
+	findflight();
 
 	
 	
 	
 	lr_think_time(5);
 
-	lr_start_transaction("select_ticket");
-	
-	web_reg_find("Text=Street Address",
-		"LAST");
-
-	web_submit_data("reservations.pl_2",
-		"Action=http://localhost:1080/cgi-bin/reservations.pl",
-		"Method=POST",
-		"TargetFrame=",
-		"RecContentType=text/html",
-		"Referer=http://localhost:1080/cgi-bin/reservations.pl",
-		"Snapshot=t12.inf",
-		"Mode=HTML",
-		"ITEMDATA",
-		"Name=outboundFlight", "Value={outboundFlight}", "ENDITEM",
-		"Name=numPassengers", "Value=1", "ENDITEM",
-		"Name=advanceDiscount", "Value=0", "ENDITEM",
-		"Name=seatType", "Value=First", "ENDITEM",
-		"Name=seatPref", "Value=Window", "ENDITEM",
-		"Name=reserveFlights.x", "Value=48", "ENDITEM",
-		"Name=reserveFlights.y", "Value=13", "ENDITEM",
-		"LAST");
-
-	lr_end_transaction("select_ticket",2);
+	selectticket();
 
 	
 	lr_think_time(5);
@@ -2969,12 +2949,12 @@ Action()
 
 	return 0;
 }
-# 5 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
+# 5 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\laris\\onedrive\\\344\356\352\363\354\345\355\362\373\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
+# 6 "c:\\skripts\\vugen\\scripts\\uc_3_search_tickets_without_payment\\\\combined_UC_3_Search_tickets_without_payment.c" 2
 

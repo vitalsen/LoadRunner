@@ -51,7 +51,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="1_script_buy_a_ticket__*delimiter*__fing_flight__*delimiter*__select_ticket__*delimiter*__payment_details"
+Order="1_script_buy_a_ticket"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -59,6 +59,3 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
 1_script_buy_a_ticket=
-fing_flight=
-select_ticket=
-payment_details=
