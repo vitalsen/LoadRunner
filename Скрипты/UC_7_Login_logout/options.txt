@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\laris\OneDrive\ƒокументы\VuGen\Scripts\UC_7_Login_logout
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\laris\onedrive\документы\vugen\scripts\uc_7_login_logout\\logfile.log
+c:\users\laris\onedrive\документы\vugen\scripts\uc_7_login_logout\\combined_UC_7_Login_logout.c
+c:\users\laris\onedrive\документы\vugen\scripts\uc_7_login_logout\\pre_cci.c
