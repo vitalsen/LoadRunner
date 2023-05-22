@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Skripts\VuGen\Scripts\UC_2_Deliting_a_reservation
--IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\skripts\vugen\scripts\uc_2_deliting_a_reservation\\logfile.log
-c:\skripts\vugen\scripts\uc_2_deliting_a_reservation\\combined_UC_2_Deliting_a_reservation.c
-c:\skripts\vugen\scripts\uc_2_deliting_a_reservation\\pre_cci.c
