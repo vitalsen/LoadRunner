@@ -1,0 +1,81 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1684773992032
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1684773992219
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t3.inf",
+                "time": 1684773992428
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Form: web_submit_form",
+                "infFile": "t4.inf",
+                "time": 1684773992704
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t5.inf",
+                "time": 1684773992908
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_site",
+                "rawStartTime": 1684773991836,
+                "rawEndTime": 1684773992032,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0953667163848877
+            },
+            {
+                "transactionName": "login",
+                "rawStartTime": 1684773992058,
+                "rawEndTime": 1684773992219,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007828474044799805
+            },
+            {
+                "transactionName": "Check_ticket",
+                "rawStartTime": 1684773992249,
+                "rawEndTime": 1684773992428,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0070362091064453129
+            },
+            {
+                "transactionName": "Cancel_reservation",
+                "rawStartTime": 1684773992457,
+                "rawEndTime": 1684773992768,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0054073333740234379
+            },
+            {
+                "transactionName": "log_out",
+                "rawStartTime": 1684773992801,
+                "rawEndTime": 1684773992909,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004396200180053711
+            },
+            {
+                "transactionName": "2_script_delete_reservation",
+                "rawStartTime": 1684773991729,
+                "rawEndTime": 1684773992924,
+                "thinkTime": 0.0,
+                "wastedTime": 0.12003493309020996
+            }
+        ]
+    }
+]

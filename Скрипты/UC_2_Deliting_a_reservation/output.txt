@@ -1,0 +1,1472 @@
+Virtual User Script started at: 22.05.2023 19:46:31
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Skripts\VuGen\Scripts\UC_2_Deliting_a_reservation\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "2_script_delete_reservation" started.
+Action.c(6): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(8): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(11): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(14): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_add_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(17): web_add_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(20): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(20): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(2): Notify: Transaction "open_site" started.
+..\\Parameters\\common.h(3): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(3): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(6): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(6): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(11): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(11): t=439ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Last-Modified: Mon, 27 May 2013 11:20:22 GMT\r\n
+..\\Parameters\\common.h(11):     ETag: "b00000007f915-16e-4ddb1559ac980"\r\n
+..\\Parameters\\common.h(11):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(11):     Content-Length: 366\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Content-Type: text/html\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=448ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1)
+..\\Parameters\\common.h(11):     <HTML>\n
+..\\Parameters\\common.h(11):     <HEAD>\n
+..\\Parameters\\common.h(11):     <title>Web Tours</title>\n
+..\\Parameters\\common.h(11):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\Parameters\\common.h(11):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\Parameters\\common.h(11):      marginwidth="2"/>\n
+..\\Parameters\\common.h(11):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\Parameters\\common.h(11):     ize" marginheight="2" marginwidth="2" />\n
+..\\Parameters\\common.h(11):     </frameset>\n
+..\\Parameters\\common.h(11):     </HEAD>\n
+..\\Parameters\\common.h(11):     </HTML>\n
+..\\Parameters\\common.h(11):     \n
+..\\Parameters\\common.h(11): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(11): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(11): t=457ms: 299-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Last-Modified: Mon, 27 May 2013 11:20:22 GMT\r\n
+..\\Parameters\\common.h(11):     ETag: "2000000007f8a7-2c6-4ddb1559ac980"\r\n
+..\\Parameters\\common.h(11):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(11):     Content-Length: 710\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Content-Type: text/html\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=458ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2)
+..\\Parameters\\common.h(11):     <!DOCTYPE html>\n
+..\\Parameters\\common.h(11):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\Parameters\\common.h(11):     <HEAD></HEAD>\n
+..\\Parameters\\common.h(11):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\Parameters\\common.h(11):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\Parameters\\common.h(11):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\Parameters\\common.h(11):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\Parameters\\common.h(11):     \t\t\t<tr>\n
+..\\Parameters\\common.h(11):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\Parameters\\common.h(11):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\Parameters\\common.h(11):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\Parameters\\common.h(11):     \t\t\t\t<td align="right"></td>\n
+..\\Parameters\\common.h(11):     \t\t\t\t<td></td>\n
+..\\Parameters\\common.h(11):     \t\t\t</tr>\n
+..\\Parameters\\common.h(11):     \t\t</table>\n
+..\\Parameters\\common.h(11):     \t</BODY>\n
+..\\Parameters\\common.h(11):     </HTML>
+..\\Parameters\\common.h(11): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(11): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(11): t=460ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(11):     ETag: "f00000007f8d4-259-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(11):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(11):     Content-Length: 601\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Content-Type: image/png\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=460ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=4)
+..\\Parameters\\common.h(11): t=462ms: 301-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Last-Modified: Mon, 04 Nov 2013 13:47:02 GMT\r\n
+..\\Parameters\\common.h(11):     ETag: "2000000007f901-105b-4ea5a26938180"\r\n
+..\\Parameters\\common.h(11):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(11):     Content-Length: 4187\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Content-Type: image/png\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=463ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=5)
+..\\Parameters\\common.h(11): t=494ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Set-Cookie: MSO=SID&1684773991; path=/\r\n
+..\\Parameters\\common.h(11):     Set-Cookie: MTUserInfo=; path=/; expires=Sun, 21-May-2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(11):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=495ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common.h(11):     2ae\r\n
+..\\Parameters\\common.h(11): t=495ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=495ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common.h(11):     <!-- \n
+..\\Parameters\\common.h(11):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\Parameters\\common.h(11):      Also, the server options have been loaded into the cookie called\n
+..\\Parameters\\common.h(11):      MSO as well.  The server options can be set via the Admin page.\n
+..\\Parameters\\common.h(11):      --->\n
+..\\Parameters\\common.h(11):     \n
+..\\Parameters\\common.h(11):     <html>\n
+..\\Parameters\\common.h(11):     <title>Web Tours</title>\n
+..\\Parameters\\common.h(11):        <!-- Frame Set -->\n
+..\\Parameters\\common.h(11):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\Parameters\\common.h(11):           <!-- Navigation Frame -->\n
+..\\Parameters\\common.h(11):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common.h(11):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(11):           <!-- Home Frame -->\n
+..\\Parameters\\common.h(11):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common.h(11):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(11):        </frameset>\n
+..\\Parameters\\common.h(11):     </html>\n
+..\\Parameters\\common.h(11):     \n
+..\\Parameters\\common.h(11):     </body>\n
+..\\Parameters\\common.h(11):     </html>
+..\\Parameters\\common.h(11): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(11): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(11): t=497ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3)
+..\\Parameters\\common.h(11):     0\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=503ms: 299-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Last-Modified: Mon, 27 May 2013 11:20:22 GMT\r\n
+..\\Parameters\\common.h(11):     ETag: "1900000007f8aa-551-4ddb1559ac980"\r\n
+..\\Parameters\\common.h(11):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(11):     Content-Length: 1361\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Content-Type: text/html\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=504ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=7)
+..\\Parameters\\common.h(11):     <HTML>\n
+..\\Parameters\\common.h(11):     <HEAD>\n
+..\\Parameters\\common.h(11):     \t<title>Web Tours</title>\n
+..\\Parameters\\common.h(11):     </HEAD>\n
+..\\Parameters\\common.h(11):     <style>\n
+..\\Parameters\\common.h(11):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(11):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\Parameters\\common.h(11):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(11):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(11):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\common.h(11):     N: none}\n
+..\\Parameters\\common.h(11):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\common.h(11):     CORATION: underline}\n
+..\\Parameters\\common.h(11):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(11):     </style>\n
+..\\Parameters\\common.h(11):     <body bgcolor="#e0e7f1">\n
+..\\Parameters\\common.h(11):     <BR/>\n
+..\\Parameters\\common.h(11):     <BR/>\n
+..\\Parameters\\common.h(11):     <BR/>\n
+..\\Parameters\\common.h(11):     <br/>\n
+..\\Parameters\\common.h(11):     <table border="0">\n
+..\\Parameters\\common.h(11):     <tr><td></td></tr>\n
+..\\Parameters\\common.h(11):     <TR><TD></TD></TR>\n
+..\\Parameters\\common.h(11):     <TR><TD>\n
+..\\Parameters\\common.h(11):     <blockquote>\n
+..\\Parameters\\common.h(11):     <H1><b>Web Tours</b></H1>\n
+..\\Parameters\\common.h(11):     Welcome to the Web Tours site.\n
+..\\Parameters\\common.h(11):     <br/>\n
+..\\Parameters\\common.h(11):     To make reservations,please enter your account information to the left.\n
+..\\Parameters\\common.h(11):     <br/>\n
+..\\Parameters\\common.h(11):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\Parameters\\common.h(11):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\Parameters\\common.h(11):     <br/>\n
+..\\Parameters\\common.h(11):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\Parameters\\common.h(11):     tration</b></A> link.\n
+..\\Parameters\\common.h(11):     <br/><br/><br/><br/><br/><br/>\n
+..\\Parameters\\common.h(11):     <br/><small>\n
+..\\Parameters\\common.h(11):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\Parameters\\common.h(11):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\Parameters\\common.h(11):     </small>\n
+..\\Parameters\\common.h(11):     </blockquote></TD>\n
+..\\Parameters\\common.h(11):     <TD></TD></TR>\n
+..\\Parameters\\common.h(11):     </table>\n
+..\\Parameters\\common.h(11):     </body>\n
+..\\Parameters\\common.h(11):     </HTML>\n
+..\\Parameters\\common.h(11): t=536ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Expires: Sun, 21 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=98\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(11):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=536ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+..\\Parameters\\common.h(11):     5d2\r\n
+..\\Parameters\\common.h(11): t=537ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=537ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+..\\Parameters\\common.h(11):     <!DOCTYPE html\n
+..\\Parameters\\common.h(11):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(11):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(11):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(11):     <head>\n
+..\\Parameters\\common.h(11):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common.h(11):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(11):     </head>\n
+..\\Parameters\\common.h(11):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(11):     <style>\n
+..\\Parameters\\common.h(11):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(11):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common.h(11):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(11):     small {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(11):     </style>\n
+..\\Parameters\\common.h(11):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\Parameters\\common.h(11):     <input type="hidden" name="userSession" value="136474.199351964HAVQiQVpzcQVzzzHtcVVQpDtQHH
+..\\Parameters\\common.h(11):     f"/>\n
+..\\Parameters\\common.h(11):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td><small>&nbsp;Password</small></td>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(11):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\Parameters\\common.h(11):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\Parameters\\common.h(11):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(11):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\Parameters\\common.h(11):     </form>\n
+..\\Parameters\\common.h(11):     \n
+..\\Parameters\\common.h(11):     </body>\n
+..\\Parameters\\common.h(11):     </html>\n
+..\\Parameters\\common.h(11): Notify: Saving Parameter "userSession = 136474.199351964HAVQiQVpzcQVzzzHtcVVQpDtQHHf".
+..\\Parameters\\common.h(11): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(11): t=538ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=6)
+..\\Parameters\\common.h(11):     0\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=539ms: 297-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=8)
+..\\Parameters\\common.h(11):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(11):     Date: Mon, 22 May 2023 16:46:31 GMT\r\n
+..\\Parameters\\common.h(11):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(11):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(11):     ETag: "b00000007f8e2-2a7-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(11):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(11):     Content-Length: 679\r\n
+..\\Parameters\\common.h(11):     Keep-Alive: timeout=5, max=98\r\n
+..\\Parameters\\common.h(11):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(11):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(11):     \r\n
+..\\Parameters\\common.h(11): t=540ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=8)
+..\\Parameters\\common.h(11): Registered web_reg_find successful for "Text=<title>Web Tours</title>" (count=3)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(11): web_url("WebTours") was successful, 10080 body bytes, 2374 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common.h(21): Notify: Transaction "open_site" ended with a "Pass" status (Duration: 0.1958 Wasted Time: 0.0954).
+..\\Parameters\\common.h(24): Notify: Transaction "login" started.
+..\\Parameters\\common.h(26): web_remove_auto_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(26): Previous automatically added web header for "Sec-Fetch-User" removed  	[MsgId: MMSG-26587]
+..\\Parameters\\common.h(26): web_remove/revert_auto_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(28): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(28): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(31): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(31): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+..\\Parameters\\common.h(31): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(33): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(33): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(36): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(36): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(39): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(39): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(41): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(41): Notify: Parameter Substitution: parameter "username" =  "user"
+..\\Parameters\\common.h(41): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(43): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(43): Notify: Parameter Substitution: parameter "userSession" =  "136474.199351964HAVQiQVpzcQVzzzHtcVVQpDtQHHf"
+..\\Parameters\\common.h(43): Notify: Parameter Substitution: parameter "username" =  "user"
+..\\Parameters\\common.h(43): Notify: Next row for parameter password = 1 [table  = password].
+..\\Parameters\\common.h(43): Notify: Parameter Substitution: parameter "password" =  "password"
+..\\Parameters\\common.h(43): t=683ms: 350-byte response headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=9)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Expires: 5s\r\n
+..\\Parameters\\common.h(43):     Set-Cookie: MTUserInfo=firstName&&address2&&username&user&hash&82&lastName&%0A&address1&&c
+..\\Parameters\\common.h(43):     reditCard&&expDate&%0A; path=/\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=97\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(43):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=703ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=9)
+..\\Parameters\\common.h(43):     1e1\r\n
+..\\Parameters\\common.h(43): t=703ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=9)
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=704ms: 481-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=9)
+..\\Parameters\\common.h(43):     <!--\n
+..\\Parameters\\common.h(43):     User password was correct - added a cookie with the user's default\n
+..\\Parameters\\common.h(43):     information.  Set the user up to make reservations...\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     --->\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     <html>\n
+..\\Parameters\\common.h(43):     <title>Web Tours</title>\n
+..\\Parameters\\common.h(43):     <frameset cols="160,*" border=1 frameborder=1>\n
+..\\Parameters\\common.h(43):     <frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" nores
+..\\Parameters\\common.h(43):     ize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(43):     <frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="no
+..\\Parameters\\common.h(43):     resize" scrolling="auto"/>\n
+..\\Parameters\\common.h(43):     </frameset>\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     </body>\n
+..\\Parameters\\common.h(43):     </html>
+..\\Parameters\\common.h(43): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(43): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(43): t=705ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=9)
+..\\Parameters\\common.h(43):     0\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=756ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=10)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Expires: Sun, 21 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=97\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(43):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=756ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=10)
+..\\Parameters\\common.h(43):     5ca\r\n
+..\\Parameters\\common.h(43): t=756ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=10)
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=757ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=10)
+..\\Parameters\\common.h(43):     <!DOCTYPE html\n
+..\\Parameters\\common.h(43):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(43):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(43):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(43):     <head>\n
+..\\Parameters\\common.h(43):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common.h(43):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(43):     </head>\n
+..\\Parameters\\common.h(43):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     <style>\n
+..\\Parameters\\common.h(43):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(43):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common.h(43):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(43):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(43):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\common.h(43):     N: none}\n
+..\\Parameters\\common.h(43):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\common.h(43):     CORATION: underline}\n
+..\\Parameters\\common.h(43):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(43):     </style>\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     <BR><BR><center>\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\Parameters\\common.h(43):     RC="/WebTours/images/flights.gif" \n
+..\\Parameters\\common.h(43):     ALT="Search Flights Button"/></A>\n
+..\\Parameters\\common.h(43):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\Parameters\\common.h(43):     WebTours/images/itinerary.gif" \n
+..\\Parameters\\common.h(43):     ALT="Itinerary Button"/></A>\n
+..\\Parameters\\common.h(43):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\Parameters\\common.h(43):     ours/images/in_home.gif" \n
+..\\Parameters\\common.h(43):     ALT="Home Button"/></A>\n
+..\\Parameters\\common.h(43):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\Parameters\\common.h(43):     es/signoff.gif" \n
+..\\Parameters\\common.h(43):     ALT="SignOff Button"/></A></center>\n
+..\\Parameters\\common.h(43):     \n
+..\\Parameters\\common.h(43):     </body>\n
+..\\Parameters\\common.h(43):     </html>\n
+..\\Parameters\\common.h(43): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(43): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(43): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(43): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(43): t=760ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=10)
+..\\Parameters\\common.h(43):     0\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=761ms: 298-byte response headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=12)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(43):     ETag: "1c00000007f8cb-2d6-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(43):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(43):     Content-Length: 726\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=96\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=762ms: 726-byte response body for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=12)
+..\\Parameters\\common.h(43): t=762ms: 228-byte response headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=11)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Expires: 5s\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(43):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=763ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=11)
+..\\Parameters\\common.h(43):     396\r\n
+..\\Parameters\\common.h(43): t=763ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=11)
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43):     0\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=763ms: 918-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=11)
+..\\Parameters\\common.h(43):     <!DOCTYPE html\n
+..\\Parameters\\common.h(43):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(43):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(43):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(43):     <head>\n
+..\\Parameters\\common.h(43):     <title>Welcome to Web Tours</title>\n
+..\\Parameters\\common.h(43):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(43):     </head>\n
+..\\Parameters\\common.h(43):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(43):     <p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; fon
+..\\Parameters\\common.h(43):     t-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family:
+..\\Parameters\\common.h(43):      tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: 
+..\\Parameters\\common.h(43):     black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>user</b>, to the Web Tours 
+..\\Parameters\\common.h(43):     reservation pages.<BR/>Using the menu to the left, you can search for new flights to book,
+..\\Parameters\\common.h(43):      \n
+..\\Parameters\\common.h(43):     or review/edit the flights already booked.  Don't forget to sign off when\n
+..\\Parameters\\common.h(43):     you're done!\n
+..\\Parameters\\common.h(43):     </blockquote>\n
+..\\Parameters\\common.h(43):     </body>\n
+..\\Parameters\\common.h(43):     </html>
+..\\Parameters\\common.h(43): t=764ms: 297-byte response headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=13)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(43):     ETag: "c00000007f8de-2dd-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(43):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(43):     Content-Length: 733\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=99\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=765ms: 733-byte response body for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=13)
+..\\Parameters\\common.h(43): t=767ms: 298-byte response headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=14)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(43):     ETag: "c00000007f8d9-2b0-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(43):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(43):     Content-Length: 688\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=768ms: 688-byte response body for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=14)
+..\\Parameters\\common.h(43): t=769ms: 299-byte response headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=15)
+..\\Parameters\\common.h(43):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(43):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(43):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(43):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(43):     ETag: "1000000007f8fe-2ef-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(43):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(43):     Content-Length: 751\r\n
+..\\Parameters\\common.h(43):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(43):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(43):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(43):     \r\n
+..\\Parameters\\common.h(43): t=769ms: 751-byte response body for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=15)
+..\\Parameters\\common.h(43): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(43): Registered web_reg_find successful for "Text=Welcome, <b>user</b>, to the Web Tours" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(43): web_submit_data("login.pl") was successful, 5779 body bytes, 2025 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common.h(60): Notify: Transaction "login" ended with a "Pass" status (Duration: 0.1611 Wasted Time: 0.0078).
+..\\Parameters\\common.h(89): Notify: Transaction "Check_ticket" started.
+..\\Parameters\\common.h(91): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(91): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(98): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(98): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(101): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(101): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(104): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(104): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(107): web_url("Itinerary Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(107): t=866ms: 215-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=16)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=95\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(107):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=867ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=16)
+..\\Parameters\\common.h(107):     24f\r\n
+..\\Parameters\\common.h(107): t=867ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=16)
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=868ms: 591-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=16)
+..\\Parameters\\common.h(107):     <!-- \n
+..\\Parameters\\common.h(107):      User wants the intineraries.  Since user has already logged on,\n
+..\\Parameters\\common.h(107):      we can give them the menu in the navbar.\n
+..\\Parameters\\common.h(107):      --->\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <html>\n
+..\\Parameters\\common.h(107):     <title>Web Tours</title>\n
+..\\Parameters\\common.h(107):        <!-- Frame Set -->\n
+..\\Parameters\\common.h(107):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\Parameters\\common.h(107):           <!-- Navigation Frame -->\n
+..\\Parameters\\common.h(107):           <frame src="nav.pl?page=menu&in=itinerary" name="navbar" \n
+..\\Parameters\\common.h(107):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(107):           <!-- Itinerary Frame -->\n
+..\\Parameters\\common.h(107):           <frame src="itinerary.pl" name="info" \n
+..\\Parameters\\common.h(107):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(107):        </frameset>\n
+..\\Parameters\\common.h(107):     </html>\n
+..\\Parameters\\common.h(107): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(107): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(107): t=886ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=16)
+..\\Parameters\\common.h(107):     0\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=924ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=17)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Expires: Sun, 21 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=96\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(107):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=925ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=17)
+..\\Parameters\\common.h(107):     5ca\r\n
+..\\Parameters\\common.h(107): t=925ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=17)
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=925ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=17)
+..\\Parameters\\common.h(107):     <!DOCTYPE html\n
+..\\Parameters\\common.h(107):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(107):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(107):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(107):     <head>\n
+..\\Parameters\\common.h(107):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common.h(107):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(107):     </head>\n
+..\\Parameters\\common.h(107):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <style>\n
+..\\Parameters\\common.h(107):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(107):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common.h(107):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(107):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(107):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\common.h(107):     N: none}\n
+..\\Parameters\\common.h(107):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\common.h(107):     CORATION: underline}\n
+..\\Parameters\\common.h(107):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(107):     </style>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <BR><BR><center>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\Parameters\\common.h(107):     RC="/WebTours/images/flights.gif" \n
+..\\Parameters\\common.h(107):     ALT="Search Flights Button"/></A>\n
+..\\Parameters\\common.h(107):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\Parameters\\common.h(107):     WebTours/images/in_itinerary.gif" \n
+..\\Parameters\\common.h(107):     ALT="Itinerary Button"/></A>\n
+..\\Parameters\\common.h(107):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\Parameters\\common.h(107):     ours/images/home.gif" \n
+..\\Parameters\\common.h(107):     ALT="Home Button"/></A>\n
+..\\Parameters\\common.h(107):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\Parameters\\common.h(107):     es/signoff.gif" \n
+..\\Parameters\\common.h(107):     ALT="SignOff Button"/></A></center>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     </body>\n
+..\\Parameters\\common.h(107):     </html>\n
+..\\Parameters\\common.h(107): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common.h(107): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(107): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(107): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common.h(107): t=927ms: 298-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=20)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(107):     ETag: "1200000007f8d0-2b0-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(107):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(107):     Content-Length: 688\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=98\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=928ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=20)
+..\\Parameters\\common.h(107): t=931ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=17)
+..\\Parameters\\common.h(107):     0\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=933ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Expires: Sun, 21 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=98\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(107):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=933ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     f84\r\n
+..\\Parameters\\common.h(107): t=933ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=933ms: 3972-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     <!DOCTYPE html\n
+..\\Parameters\\common.h(107):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(107):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(107):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(107):     <head>\n
+..\\Parameters\\common.h(107):     <title>Flights List</title>\n
+..\\Parameters\\common.h(107):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(107):     </head>\n
+..\\Parameters\\common.h(107):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(107):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\Parameters\\common.h(107):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\Parameters\\common.h(107):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+..\\Parameters\\common.h(107):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+..\\Parameters\\common.h(107):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+..\\Parameters\\common.h(107):     ">\n
+..\\Parameters\\common.h(107):     <center>\n
+..\\Parameters\\common.h(107):     <TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#5E7884">\n
+..\\Parameters\\common.h(107):       <TD colspan="4" align="center"><font color="white"><B> Piter\n
+..\\Parameters\\common.h(107):      's Flight Transaction Summary</B></color></TD></TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(107):     <b>\n
+..\\Parameters\\common.h(107):     <label><input type="checkbox" name="1" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(107):     <input type="hidden" name="flightID" value="0-7-P"  />\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(107):           <b>&nbsp;&nbsp;  class tickets for :</b><br/>\n
+..\\Parameters\\common.h(107):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(107):           <li><i>      <li><i>Kazan\n
+..\\Parameters\\common.h(107):           <li><i></i>\n
+..\\Parameters\\common.h(107):           </td></tr></table></center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(107):           <center>\n
+..\\Parameters\\common.h(107):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(107):                Piter\n
+..\\Parameters\\common.h(107):     <br/>\n
+..\\Parameters\\common.h(107):               8888;01/23<br/>\n
+..\\Parameters\\common.h(107):               1;Business; Anna Ivanova<br/>\n
+..\\Parameters\\common.h(107):               <br/>\n
+..\\Parameters\\common.h(107):               Total Charge: $ 0 <BR/> (CC: x-)\n
+..\\Parameters\\common.h(107):           </td> </tr> </table>\n
+..\\Parameters\\common.h(107):           </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(107):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(107):       2222223 :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(107):       <hr/>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(107):     <b>\n
+..\\Parameters\\common.h(107):     <label><input type="checkbox" name="2" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(107):     <input type="hidden" name="flightID" value="0-0-"  />\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(107):           <b>&nbsp;&nbsp;0 0 class tickets for :</b><br/>\n
+..\\Parameters\\common.h(107):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(107):     Svetlana      <li><i>Kuznecov\n
+..\\Parameters\\common.h(107):           <li><i></i>\n
+..\\Parameters\\common.h(107):           </td></tr></table></center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(107):           <center>\n
+..\\Parameters\\common.h(107):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(107):                <br/>\n
+..\\Parameters\\common.h(107):               ;Sibai<br/>\n
+..\\Parameters\\common.h(107):               ;111111;01/23<br/>\n
+..\\Parameters\\common.h(107):               <br/>\n
+..\\Parameters\\common.h(107):               Total Charge: $ 0 <BR/> (CC: x-)\n
+..\\Parameters\\common.h(107):           </td> </tr> </table>\n
+..\\Parameters\\common.h(107):           </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(107):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(107):       Oktibra\n
+..\\Parameters\\common.h(107):      :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(107):       <hr/>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(107):     <b>\n
+..\\Parameters\\common.h(107):     <label><input type="checkbox" name="3" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(107):     <input type="hidden" name="flightID" value="0-2-"  />\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(107):           <b>&nbsp;&nbsp;Pacha Ivanova\n
+..\\Parameters\\common.h(107):      class tickets for :</b><br/>\n
+..\\Parameters\\common.h(107):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(107):           <li><i>      <li><i>Oktibra\n
+..\\Parameters\\common.h(107):           <li><i></i>\n
+..\\Parameters\\common.h(107):           </td></tr></table></center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(107):           <center>\n
+..\\Parameters\\common.h(107):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(107):                <br/>\n
+..\\Parameters\\common.h(107):               1;First;400;6570Vitaly;Kommunistic<br/>\n
+..\\Parameters\\common.h(107):               vsk<br/>\n
+..\\Parameters\\common.h(107):               <br/>\n
+..\\Parameters\\common.h(107):               Total Charge: $ 0 <BR/> (CC: x-)\n
+..\\Parameters\\common.h(107):           </td> </tr> </table>\n
+..\\Parameters\\common.h(107):           </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     <TR bgcol
+..\\Parameters\\common.h(107): Notify: Saving Parameter "flightID = 0-7-P".
+..\\Parameters\\common.h(107): t=936ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     7ee\r\n
+..\\Parameters\\common.h(107): t=936ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=937ms: 2030-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     or="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(107):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(107):        :  8am : Flight bai\n
+..\\Parameters\\common.h(107):      leaves Denver  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(107):       <hr/>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(107):     <b>\n
+..\\Parameters\\common.h(107):     <label><input type="checkbox" name="4" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(107):     <input type="hidden" name="flightID" value="0-3-2"  />\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(107):           <b>&nbsp;&nbsp;  class tickets for :</b><br/>\n
+..\\Parameters\\common.h(107):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(107):     1      <li><i>First      <li><i>803      <li><i>12150      <li><i>0      <li><i>0\n
+..\\Parameters\\common.h(107):           <li><i></i>\n
+..\\Parameters\\common.h(107):           </td></tr></table></center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(107):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(107):           <center>\n
+..\\Parameters\\common.h(107):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(107):                2<br/>\n
+..\\Parameters\\common.h(107):               Tamara;Genov<br/>\n
+..\\Parameters\\common.h(107):               ;;;Krasnaia<br/>\n
+..\\Parameters\\common.h(107):               <br/>\n
+..\\Parameters\\common.h(107):               Total Charge: $ 0 <BR/> (CC: x-ara\n
+..\\Parameters\\common.h(107):     )\n
+..\\Parameters\\common.h(107):           </td> </tr> </table>\n
+..\\Parameters\\common.h(107):           </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(107):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(107):        :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(107):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(107):       <hr/>\n
+..\\Parameters\\common.h(107):       </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     <TR>\n
+..\\Parameters\\common.h(107):        <TD align="center" COLSPAN="4">\n
+..\\Parameters\\common.h(107):        <b>A total of 4 scheduled flights.</font></b>\n
+..\\Parameters\\common.h(107):        </TD>\n
+..\\Parameters\\common.h(107):     </TR>\n
+..\\Parameters\\common.h(107):     </TABLE>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+..\\Parameters\\common.h(107):     <TR>\n
+..\\Parameters\\common.h(107):     <TD align="left" width="50%" >\n
+..\\Parameters\\common.h(107):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+..\\Parameters\\common.h(107):     er="0" /></TD>\n
+..\\Parameters\\common.h(107):     <TD align="right" width="50%" >\n
+..\\Parameters\\common.h(107):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+..\\Parameters\\common.h(107):     f" border="0" /></TD>\n
+..\\Parameters\\common.h(107):     </TABLE>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     <div><input type="hidden" name=".cgifields" value="4"  /><input type="hidden" name=".cgifi
+..\\Parameters\\common.h(107):     elds" value="1"  /><input type="hidden" name=".cgifields" value="3"  /><input type="hidden
+..\\Parameters\\common.h(107):     " name=".cgifields" value="2"  /></div></form>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     </center>\n
+..\\Parameters\\common.h(107):     \n
+..\\Parameters\\common.h(107):     </body>\n
+..\\Parameters\\common.h(107):     </html>
+..\\Parameters\\common.h(107): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(107): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\Parameters\\common.h(107): t=939ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18)
+..\\Parameters\\common.h(107):     0\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=942ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=22)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(107):     ETag: "1700000007f8b6-2e6-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(107):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(107):     Content-Length: 742\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=97\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=943ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=22)
+..\\Parameters\\common.h(107): t=948ms: 297-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=19)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(107):     ETag: "c00000007f8db-2dd-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(107):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(107):     Content-Length: 733\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=94\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=949ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=19)
+..\\Parameters\\common.h(107): t=980ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=21)
+..\\Parameters\\common.h(107):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(107):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(107):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(107):     Last-Modified: Thu, 12 Jan 2012 13:30:27 GMT\r\n
+..\\Parameters\\common.h(107):     ETag: "d00000007f8ca-33f-4b654c052c2c0"\r\n
+..\\Parameters\\common.h(107):     Accept-Ranges: bytes\r\n
+..\\Parameters\\common.h(107):     Content-Length: 831\r\n
+..\\Parameters\\common.h(107):     Keep-Alive: timeout=5, max=95\r\n
+..\\Parameters\\common.h(107):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(107):     Content-Type: image/gif\r\n
+..\\Parameters\\common.h(107):     \r\n
+..\\Parameters\\common.h(107): t=981ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=21)
+..\\Parameters\\common.h(107): Registered web_reg_find successful for "Text=User wants the intineraries" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(107): web_url("Itinerary Button") was successful, 11069 body bytes, 1915 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common.h(117): Notify: Transaction "Check_ticket" ended with a "Pass" status (Duration: 0.1790 Wasted Time: 0.0070).
+Action.c(36): Notify: Transaction "Cancel_reservation" started.
+Action.c(38): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(38): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(41): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(41): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(45): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(45): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(50): Notify: Parameter Substitution: parameter "delete_num" =  "1"
+Action.c(52): web_submit_form("web_submit_form") started  	[MsgId: MMSG-26355]
+Action.c(52): Submitting form to "http://localhost:1080/cgi-bin/itinerary.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(52): t=1185ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     HTTP/1.1 200 OK\r\n
+Action.c(52):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+Action.c(52):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(52):     Expires: Sun, 21 May 2023 16:46:32 GMT\r\n
+Action.c(52):     Keep-Alive: timeout=5, max=93\r\n
+Action.c(52):     Connection: Keep-Alive\r\n
+Action.c(52):     Transfer-Encoding: chunked\r\n
+Action.c(52):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(52):     \r\n
+Action.c(52): t=1186ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     f84\r\n
+Action.c(52): t=1187ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     \r\n
+Action.c(52): t=1187ms: 3972-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     <!DOCTYPE html\n
+Action.c(52):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(52):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(52):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(52):     <head>\n
+Action.c(52):     <title>Flights List</title>\n
+Action.c(52):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(52):     </head>\n
+Action.c(52):     <body bgcolor="#E0E7F1">\n
+Action.c(52):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(52):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(52):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+Action.c(52):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+Action.c(52):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+Action.c(52):     ">\n
+Action.c(52):     <center>\n
+Action.c(52):     <TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">\n
+Action.c(52):     <TR bgcolor="#5E7884">\n
+Action.c(52):       <TD colspan="4" align="center"><font color="white"><B>  's Flight Transaction Summary</B
+Action.c(52):     ></color></TD></TR>\n
+Action.c(52):     \n
+Action.c(52):     <!-- Flight #1 -->\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(52):     <b>\n
+Action.c(52):     <label><input type="checkbox" name="1" value="on" /></label></font></b>\n
+Action.c(52):     <input type="hidden" name="flightID" value="0-0-"  />\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="45%" valign="top">\n
+Action.c(52):           <b>&nbsp;&nbsp;Svetlana Kuznecov\n
+Action.c(52):      class tickets for :</b><br/>\n
+Action.c(52):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(52):           <li><i>      <li><i>Oktibra\n
+Action.c(52):           <li><i></i>\n
+Action.c(52):           </td></tr></table></center>\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(52):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(52):           <center>\n
+Action.c(52):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(52):                <br/>\n
+Action.c(52):               ;Sibai<br/>\n
+Action.c(52):               ;111111;01/23<br/>\n
+Action.c(52):               <br/>\n
+Action.c(52):               Total Charge: $ 0 <BR/> (CC: x-)\n
+Action.c(52):           </td> </tr> </table>\n
+Action.c(52):           </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="3">\n
+Action.c(52):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(52):        :  8am : Flight Piter\n
+Action.c(52):      leaves Denver  for Denver.<br>  </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="4">\n
+Action.c(52):       <hr/>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <!-- Flight #1 -->\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(52):     <b>\n
+Action.c(52):     <label><input type="checkbox" name="2" value="on" /></label></font></b>\n
+Action.c(52):     <input type="hidden" name="flightID" value="0-0-1F"  />\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="45%" valign="top">\n
+Action.c(52):           <b>&nbsp;&nbsp;bai\n
+Action.c(52):       class tickets for :</b><br/>\n
+Action.c(52):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(52):           <li><i>      <li><i>      <li><i>6666      <li><i>01/23\n
+Action.c(52):           <li><i></i>\n
+Action.c(52):           </td></tr></table></center>\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(52):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(52):           <center>\n
+Action.c(52):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(52):               1 First<br/>\n
+Action.c(52):               vsk<br/>\n
+Action.c(52):               ;Pacha;Ivanova<br/>\n
+Action.c(52):               <br/>\n
+Action.c(52):               Total Charge: $ 0 <BR/> (CC: x-)\n
+Action.c(52):           </td> </tr> </table>\n
+Action.c(52):           </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="3">\n
+Action.c(52):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(52):       Business0 :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="4">\n
+Action.c(52):       <hr/>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <!-- Flight #1 -->\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(52):     <b>\n
+Action.c(52):     <label><input type="checkbox" name="3" value="on" /></label></font></b>\n
+Action.c(52):     <input type="hidden" name="flightID" value="0-2-"  />\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="45%" valign="top">\n
+Action.c(52):           <b>&nbsp;&nbsp;  class tickets for :</b><br/>\n
+Action.c(52):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(52):     </i>\n
+Action.c(52):           </td></tr></table></center>\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(52):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(52):           <center>\n
+Action.c(52):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(52):                <br/>\n
+Action.c(52):               ara<br/>\n
+Action.c(52):               ;;;6666661;First;803;12150;0;0<br/>\n
+Action.c(52):               <br/>\n
+Action.c(52):               Total Charge: $ 0 <BR/> (CC: x-)\n
+Action.c(52):           </td> </tr> </table>\n
+Action.c(52):           </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="3">\n
+Action.c(52): Downloading resource "http://localhost:1080/cgi-bin/itinerary.pl" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(52): t=1196ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     347\r\n
+Action.c(52): t=1197ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     \r\n
+Action.c(52): t=1197ms: 839-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(52):        :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="4">\n
+Action.c(52):       <hr/>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR>\n
+Action.c(52):        <TD align="center" COLSPAN="4">\n
+Action.c(52):        <b>A total of 3 scheduled flights.</font></b>\n
+Action.c(52):        </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     </TABLE>\n
+Action.c(52):     \n
+Action.c(52):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(52):     <TR>\n
+Action.c(52):     <TD align="left" width="50%" >\n
+Action.c(52):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(52):     er="0" /></TD>\n
+Action.c(52):     <TD align="right" width="50%" >\n
+Action.c(52):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(52):     f" border="0" /></TD>\n
+Action.c(52):     </TABLE>\n
+Action.c(52):     \n
+Action.c(52):     <div><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifi
+Action.c(52):     elds" value="3"  /><input type="hidden" name=".cgifields" value="2"  /></div></form>\n
+Action.c(52):     \n
+Action.c(52):     </center>\n
+Action.c(52):     \n
+Action.c(52):     </body>\n
+Action.c(52):     </html>
+Action.c(52): Notify: Saving Parameter "flights_numbers = 3".
+Action.c(52): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(52): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(52): t=1203ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=23)
+Action.c(52):     0\r\n
+Action.c(52):     \r\n
+Action.c(52): t=1244ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):     HTTP/1.1 200 OK\r\n
+Action.c(52):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+Action.c(52):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(52):     Expires: Sun, 21 May 2023 16:46:32 GMT\r\n
+Action.c(52):     Keep-Alive: timeout=5, max=94\r\n
+Action.c(52):     Connection: Keep-Alive\r\n
+Action.c(52):     Transfer-Encoding: chunked\r\n
+Action.c(52):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(52):     \r\n
+Action.c(52): t=1245ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):     f84\r\n
+Action.c(52): t=1245ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):     \r\n
+Action.c(52): t=1246ms: 3972-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):     <!DOCTYPE html\n
+Action.c(52):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(52):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(52):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(52):     <head>\n
+Action.c(52):     <title>Flights List</title>\n
+Action.c(52):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(52):     </head>\n
+Action.c(52):     <body bgcolor="#E0E7F1">\n
+Action.c(52):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(52):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(52):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+Action.c(52):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+Action.c(52):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+Action.c(52):     ">\n
+Action.c(52):     <center>\n
+Action.c(52):     <TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">\n
+Action.c(52):     <TR bgcolor="#5E7884">\n
+Action.c(52):       <TD colspan="4" align="center"><font color="white"><B>  's Flight Transaction Summary</B
+Action.c(52):     ></color></TD></TR>\n
+Action.c(52):     \n
+Action.c(52):     <!-- Flight #1 -->\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(52):     <b>\n
+Action.c(52):     <label><input type="checkbox" name="1" value="on" /></label></font></b>\n
+Action.c(52):     <input type="hidden" name="flightID" value="0-0-"  />\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="45%" valign="top">\n
+Action.c(52):           <b>&nbsp;&nbsp;Svetlana Kuznecov\n
+Action.c(52):      class tickets for :</b><br/>\n
+Action.c(52):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(52):           <li><i>      <li><i>Oktibra\n
+Action.c(52):           <li><i></i>\n
+Action.c(52):           </td></tr></table></center>\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(52):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(52):           <center>\n
+Action.c(52):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(52):                <br/>\n
+Action.c(52):               ;Sibai<br/>\n
+Action.c(52):               ;111111;01/23<br/>\n
+Action.c(52):               <br/>\n
+Action.c(52):               Total Charge: $ 0 <BR/> (CC: x-)\n
+Action.c(52):           </td> </tr> </table>\n
+Action.c(52):           </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="3">\n
+Action.c(52):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(52):        :  8am : Flight Piter\n
+Action.c(52):      leaves Denver  for Denver.<br>  </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="4">\n
+Action.c(52):       <hr/>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <!-- Flight #1 -->\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(52):     <b>\n
+Action.c(52):     <label><input type="checkbox" name="2" value="on" /></label></font></b>\n
+Action.c(52):     <input type="hidden" name="flightID" value="0-0-1F"  />\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="45%" valign="top">\n
+Action.c(52):           <b>&nbsp;&nbsp;bai\n
+Action.c(52):       class tickets for :</b><br/>\n
+Action.c(52):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(52):           <li><i>      <li><i>      <li><i>6666      <li><i>01/23\n
+Action.c(52):           <li><i></i>\n
+Action.c(52):           </td></tr></table></center>\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(52):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(52):           <center>\n
+Action.c(52):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(52):               1 First<br/>\n
+Action.c(52):               vsk<br/>\n
+Action.c(52):               ;Pacha;Ivanova<br/>\n
+Action.c(52):               <br/>\n
+Action.c(52):               Total Charge: $ 0 <BR/> (CC: x-)\n
+Action.c(52):           </td> </tr> </table>\n
+Action.c(52):           </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="3">\n
+Action.c(52):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(52):       Business0 :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="4">\n
+Action.c(52):       <hr/>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <!-- Flight #1 -->\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+Action.c(52):     <b>\n
+Action.c(52):     <label><input type="checkbox" name="3" value="on" /></label></font></b>\n
+Action.c(52):     <input type="hidden" name="flightID" value="0-2-"  />\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="45%" valign="top">\n
+Action.c(52):           <b>&nbsp;&nbsp;  class tickets for :</b><br/>\n
+Action.c(52):           <center><table border="0" width="85%"><tr><td>\n
+Action.c(52):     </i>\n
+Action.c(52):           </td></tr></table></center>\n
+Action.c(52):       </TD>\n
+Action.c(52):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(52):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(52):           <center>\n
+Action.c(52):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(52):                <br/>\n
+Action.c(52):               ara<br/>\n
+Action.c(52):               ;;;6666661;First;803;12150;0;0<br/>\n
+Action.c(52):               <br/>\n
+Action.c(52):               Total Charge: $ 0 <BR/> (CC: x-)\n
+Action.c(52):           </td> </tr> </table>\n
+Action.c(52):           </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="3">\n
+Action.c(52): t=1254ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):     347\r\n
+Action.c(52): t=1254ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):     \r\n
+Action.c(52):     0\r\n
+Action.c(52):     \r\n
+Action.c(52): t=1255ms: 839-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=, Internal ID=24)
+Action.c(52):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(52):        :  8am : Flight  leaves Denver  for Denver.<br>  </center>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     \n
+Action.c(52):     <TR bgcolor="#EFF2F7">\n
+Action.c(52):       <TD COLSPAN="4">\n
+Action.c(52):       <hr/>\n
+Action.c(52):       </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     <TR>\n
+Action.c(52):        <TD align="center" COLSPAN="4">\n
+Action.c(52):        <b>A total of 3 scheduled flights.</font></b>\n
+Action.c(52):        </TD>\n
+Action.c(52):     </TR>\n
+Action.c(52):     </TABLE>\n
+Action.c(52):     \n
+Action.c(52):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(52):     <TR>\n
+Action.c(52):     <TD align="left" width="50%" >\n
+Action.c(52):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(52):     er="0" /></TD>\n
+Action.c(52):     <TD align="right" width="50%" >\n
+Action.c(52):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(52):     f" border="0" /></TD>\n
+Action.c(52):     </TABLE>\n
+Action.c(52):     \n
+Action.c(52):     <div><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifi
+Action.c(52):     elds" value="3"  /><input type="hidden" name=".cgifields" value="2"  /></div></form>\n
+Action.c(52):     \n
+Action.c(52):     </center>\n
+Action.c(52):     \n
+Action.c(52):     </body>\n
+Action.c(52):     </html>
+Action.c(52): Notify: Saving Parameter "flights_numbers = 3".
+Action.c(52): Registered web_reg_find successful for "Text=Flight Transaction Summary" (count=2)  	[MsgId: MMSG-26364]
+Action.c(52): Warning -26376: Requested parameter "flights_numbers" found in 2 different pages/frames. Use "web_reg_save_param" with more restrictive LB/RB/RelFrameId  	[MsgId: MWAR-26376]
+Action.c(52): Warning -26373: Parameter "flights_numbers" saved from a resource (URL="http://localhost:1080/cgi-bin/itinerary.pl")  	[MsgId: MWAR-26373]
+Action.c(52): web_submit_form("web_submit_form") highest severity level was "warning", 9622 body bytes, 510 header bytes, 38 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(91): Notify: Parameter Substitution: parameter "flights_numbers" =  "3"
+Action.c(93): Error: Itinerary not deleted
+Action.c(100): Notify: Transaction "Cancel_reservation" ended with a "Pass" status (Duration: 0.3113 Wasted Time: 0.0054).
+..\\Parameters\\common.h(118): Notify: Transaction "log_out" started.
+..\\Parameters\\common.h(120): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(120): Warning -26590: web_remove/revert_auto_header for "Origin" had no effect  	[MsgId: MWAR-26590]
+..\\Parameters\\common.h(120): web_remove/revert_auto_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\common.h(122): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(122): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(125): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(125): t=1413ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=25)
+..\\Parameters\\common.h(125):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(125):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(125):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(125):     Set-Cookie: MSO=SID&1684773992; path=/\r\n
+..\\Parameters\\common.h(125):     Set-Cookie: MTUserInfo=; path=/; expires=Sun, 21-May-2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(125):     Keep-Alive: timeout=5, max=92\r\n
+..\\Parameters\\common.h(125):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(125):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(125):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1415ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=25)
+..\\Parameters\\common.h(125):     2ae\r\n
+..\\Parameters\\common.h(125): t=1415ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=25)
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1415ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=25)
+..\\Parameters\\common.h(125):     <!-- \n
+..\\Parameters\\common.h(125):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\Parameters\\common.h(125):      Also, the server options have been loaded into the cookie called\n
+..\\Parameters\\common.h(125):      MSO as well.  The server options can be set via the Admin page.\n
+..\\Parameters\\common.h(125):      --->\n
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     <html>\n
+..\\Parameters\\common.h(125):     <title>Web Tours</title>\n
+..\\Parameters\\common.h(125):        <!-- Frame Set -->\n
+..\\Parameters\\common.h(125):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\Parameters\\common.h(125):           <!-- Navigation Frame -->\n
+..\\Parameters\\common.h(125):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common.h(125):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(125):           <!-- Home Frame -->\n
+..\\Parameters\\common.h(125):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common.h(125):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(125):        </frameset>\n
+..\\Parameters\\common.h(125):     </html>\n
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     </body>\n
+..\\Parameters\\common.h(125):     </html>
+..\\Parameters\\common.h(125): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(125): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(125): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\Parameters\\common.h(125): t=1417ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=27)
+..\\Parameters\\common.h(125):     <HTML>\n
+..\\Parameters\\common.h(125):     <HEAD>\n
+..\\Parameters\\common.h(125):     \t<title>Web Tours</title>\n
+..\\Parameters\\common.h(125):     </HEAD>\n
+..\\Parameters\\common.h(125):     <style>\n
+..\\Parameters\\common.h(125):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(125):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\Parameters\\common.h(125):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(125):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(125):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\common.h(125):     N: none}\n
+..\\Parameters\\common.h(125):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\common.h(125):     CORATION: underline}\n
+..\\Parameters\\common.h(125):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(125):     </style>\n
+..\\Parameters\\common.h(125):     <body bgcolor="#e0e7f1">\n
+..\\Parameters\\common.h(125):     <BR/>\n
+..\\Parameters\\common.h(125):     <BR/>\n
+..\\Parameters\\common.h(125):     <BR/>\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     <table border="0">\n
+..\\Parameters\\common.h(125):     <tr><td></td></tr>\n
+..\\Parameters\\common.h(125):     <TR><TD></TD></TR>\n
+..\\Parameters\\common.h(125):     <TR><TD>\n
+..\\Parameters\\common.h(125):     <blockquote>\n
+..\\Parameters\\common.h(125):     <H1><b>Web Tours</b></H1>\n
+..\\Parameters\\common.h(125):     Welcome to the Web Tours site.\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     To make reservations,please enter your account information to the left.\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\Parameters\\common.h(125):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\Parameters\\common.h(125):     tration</b></A> link.\n
+..\\Parameters\\common.h(125):     <br/><br/><br/><br/><br/><br/>\n
+..\\Parameters\\common.h(125):     <br/><small>\n
+..\\Parameters\\common.h(125):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\Parameters\\common.h(125):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\Parameters\\common.h(125):     </small>\n
+..\\Parameters\\common.h(125):     </blockquote></TD>\n
+..\\Parameters\\common.h(125):     <TD></TD></TR>\n
+..\\Parameters\\common.h(125):     </table>\n
+..\\Parameters\\common.h(125):     </body>\n
+..\\Parameters\\common.h(125):     </HTML>\n
+..\\Parameters\\common.h(125): t=1423ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=25)
+..\\Parameters\\common.h(125):     0\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1460ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=26)
+..\\Parameters\\common.h(125):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(125):     Date: Mon, 22 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(125):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(125):     Expires: Sun, 21 May 2023 16:46:32 GMT\r\n
+..\\Parameters\\common.h(125):     Keep-Alive: timeout=5, max=93\r\n
+..\\Parameters\\common.h(125):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(125):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(125):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1461ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=26)
+..\\Parameters\\common.h(125):     5d0\r\n
+..\\Parameters\\common.h(125): t=1461ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=26)
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1461ms: 1488-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=26)
+..\\Parameters\\common.h(125):     <!DOCTYPE html\n
+..\\Parameters\\common.h(125):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(125):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(125):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(125):     <head>\n
+..\\Parameters\\common.h(125):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common.h(125):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(125):     </head>\n
+..\\Parameters\\common.h(125):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(125):     <style>\n
+..\\Parameters\\common.h(125):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(125):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common.h(125):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(125):     small {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(125):     </style>\n
+..\\Parameters\\common.h(125):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\Parameters\\common.h(125):     <input type="hidden" name="userSession" value="136474.199432969HAVQiQVpzDDDDDDDtcVVQpDtQi"
+..\\Parameters\\common.h(125):     />\n
+..\\Parameters\\common.h(125):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><small>&nbsp;Password</small></td>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\Parameters\\common.h(125):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\Parameters\\common.h(125):     </form>\n
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     </body>\n
+..\\Parameters\\common.h(125):     </html>\n
+..\\Parameters\\common.h(125): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common.h(125): t=1463ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=26)
+..\\Parameters\\common.h(125):     0\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): Registered web_reg_find successful for "Text=A Session ID has been created" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(125): web_url("SignOff Button") was successful, 2174 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common.h(135): Notify: Transaction "log_out" ended with a "Pass" status (Duration: 0,1078 Wasted Time: 0,0044).
+Action.c(107): Notify: Transaction "2_script_delete_reservation" ended with a "Pass" status (Duration: 1,1953 Wasted Time: 0,1200).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,2512 @@
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Svetlanovna\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 324 <BR/> (CC: x-0000)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 751 leaves Seattle  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="164" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="370364961-126227-gK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Kukushkina\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Kukushkina\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Nevskogo<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 955 <BR/> (CC: x-9999)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 853 leaves Sydney  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="165" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="288040392-126970-PS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Svetlanovna\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Svetlanovna\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               Piter<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 610 <BR/> (CC: x-7777)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 090 leaves Denver  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="166" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="82329764-1277022-KS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Sidorov      <li><i>Dima Petrov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Sidorov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Nevskogo<br/>\n
+..\\Parameters\\common.h(235):               Tyla<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1292 <BR/> (CC: x-2222)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       08/06/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 903 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="167" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="312303-1284952-RS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Rezeda Safronova      <li><i>Dima Kazarin \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Rezeda Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Nevskogo<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 4384 <BR/> (CC: x-0000)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 843 leaves Sydney  for Paris.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="168" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="1234608-1292-SS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First 
+..\\Parameters\\common.h(235): t=1126694ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126694ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126694ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126694ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Svetlana Safronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Svetlana Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Kazan<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       03/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 443 leaves Paris  for Paris.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="169" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="123462602-130041-AG"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Anna Genov      <li><i>Dima Petrov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Anna Genov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Sibai<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 536 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 490 leaves Paris  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="170" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="2469219690-1307945-gG"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Genov      <li><i>Vitaly Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Genov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 3294 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       03/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 893 leaves Sydney  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="171" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="2057408-1315-AS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Anna Sidorov      <li><i>Vitaly Sidorov       <li><i> GenaIvanova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Anna Sidorov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-5555)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 003 leaves Denver  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="172" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3292148203-1323191-VS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Vitaly Safronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Vitaly Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1485 <BR/> (CC: x-8888)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 800 leaves Sydney  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="173" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="41179776-1330916-KI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Ivanova      <li><i>Vitaly Petrov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1910 <BR/> (CC: x-1111)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       03/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 853 leaves Sydney  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="174" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="14911-133894-PS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Pacha Sidorov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Pacha Sidorov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 622 <BR/> (CC: x-0000)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       08/06/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 402 leaves Paris  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="175" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3292163062-1346772-PS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Sidorov      <li><i>Dima Sidorov       <li><i> GenaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Sidorov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktibra<br/>\n
+..\\Parameters\\common.h(235):               Samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 8037 <BR/> (CC: x-8888)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 840 leaves Sydney  for Paris.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="176" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3292166722-1354078-KP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Petrov      <li><i>Sergey Kazarin \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kommunistic<br/>\n
+..\\Parameters\\common.h(235):               Kazan<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 3018 <BR/> (CC: x-8888)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 850 leaves Sydney  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="177" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3703500408-1361618-gK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Kukushkina\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Kukushkina\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Moskow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1038 <BR/> (CC: x-9999)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 451 leaves Paris  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="178" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="411648929-1369484-AI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Anna Ivanova      <li><i>Sergey Kazarin       <li><i> AnnaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Anna Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktibra<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 3303 <BR/> (CC: x-1111)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 452 leaves Paris  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="179" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="41164953-137749-gP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp
+..\\Parameters\\common.h(235): t=1126701ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126701ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126701ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126701ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     ;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Petrov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kdayrova<br/>\n
+..\\Parameters\\common.h(235):               Piter<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 737 <BR/> (CC: x-1111)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 453 leaves Paris  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="180" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="164610784-138475-PP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Petrov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktiabra<br/>\n
+..\\Parameters\\common.h(235):               Sibai<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 184 <BR/> (CC: x-4444)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 491 leaves Paris  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="181" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="1234444-1392-PI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Ivanova      <li><i>Dima Kazarin \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktiabra<br/>\n
+..\\Parameters\\common.h(235):               Tyla<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/06/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 001 leaves Denver  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="182" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="329220467-1400146-PP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Pacha Petrov      <li><i>Vitaly Kazarin       <li><i> AnnaKirkorov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Pacha Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1899 <BR/> (CC: x-8888)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 952 leaves Zurich  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="183" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="2469052-1407-KI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Ivanova      <li><i>Vitaly Sidorov       <li><i> RimmaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kdayrova<br/>\n
+..\\Parameters\\common.h(235):               Moskow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 441 leaves Paris  for Paris.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="184" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="178970-1415721-AI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Anna Ivanova      <li><i>Dima Kazarin \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Anna Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 4384 <BR/> (CC: x-0000)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 483 leaves Paris  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="185" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="370366768-142365-gS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Svetlanovna\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Svetlanovna\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 746 <BR/> (CC: x-9999)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 902 leaves Zurich  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="186" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="246907120-143135-SP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Svetlana Petrov      <li><i>Sergey Sidorov       <li><i> GenaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Svetlana Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kdayrova<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 759 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 492 leaves Paris  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="187" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="82331156-143882-RK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Rezeda Kazarin      <li><i>Dima Kazarin \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Rezeda Kazarin\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kreml<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 476 <BR/> (CC: x-2222)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 941 leaves Zurich  for Paris.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="188" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="1646092635-1446422-AP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Anna Petrov      <li><i>Vitaly Kazarin       <li><i> RimmaKirkorov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Anna Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kommunistic<br/>\n
+..\\Parameters\\common.h(235):               Piter<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 3495 <BR/> (CC: x-4444)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="189" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="2057771542-1453972-PS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Safronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kommunistic<br/>\n
+..\\Parameters\\common.h(235):               Moskow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1647 <BR/> (CC: x-5555)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 983 leaves Zurich  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="190" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="246890794-146189-KP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):      
+..\\Parameters\\common.h(235): t=1126708ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126708ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126708ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126708ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):      <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Petrov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Lenina<br/>\n
+..\\Parameters\\common.h(235):               Kazan<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 459 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       08/06/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 051 leaves Denver  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="191" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="205744203-1469345-VS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Vitaly Svetlanovna      <li><i>Vitaly Sidorov       <li><i> GenaKirkorov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Vitaly Svetlanovna\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kdayrova<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1497 <BR/> (CC: x-5555)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="192" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="1234811-1476-PS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Safronova      <li><i>Sergey Sidorov       <li><i> GenaKirkorov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktiabra<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       07/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 992 leaves Zurich  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="193" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="370368543-1484718-SS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Svetlana Svetlanovna      <li><i>Dima Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Svetlana Svetlanovna\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kdayrova<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1338 <BR/> (CC: x-9999)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 950 leaves Zurich  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="194" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="370362729-1492413-SI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Svetlana Ivanova      <li><i>Dima Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Svetlana Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kommunistic<br/>\n
+..\\Parameters\\common.h(235):               Piter<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1372 <BR/> (CC: x-9999)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       07/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 793 leaves Seattle  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="195" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="164594459-150030-VS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Vitaly Safronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Vitaly Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               Moskow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 398 <BR/> (CC: x-4444)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       08/06/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 050 leaves Denver  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="196" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="823290-1507-KP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Petrov      <li><i>Vitaly Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kdayrova<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-2222)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 883 leaves Sydney  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="197" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="288062983-1515468-PP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Petrov      <li><i>Dima Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktibra<br/>\n
+..\\Parameters\\common.h(235):               Ulyanovsk<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1096 <BR/> (CC: x-7777)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 700 leaves Seattle  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="198" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="2469052-1523-PS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Pacha Svetlanovna      <li><i>Dima Petrov       <li><i> AnnaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Pacha Svetlanovna\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktibra<br/>\n
+..\\Parameters\\common.h(235):               Moscow<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 443 leaves Paris  for Paris.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="199" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="205768523-153104-PI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Pacha Ivanova      <li><i>Vitaly Kazarin       <li><i> RimmaIvanova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Pacha Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 363 <BR/> (CC: x-5555)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       08/06/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 750 leaves Seattle  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="200" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="123459283-1538562-gK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Kuznecov      <li><i>Dima Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Kuznecov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               Piter<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1314 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 400 leaves Paris  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type
+..\\Parameters\\common.h(235): t=1126715ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126715ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126715ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126715ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     ="checkbox" name="201" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3292215251-1546291-RI"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Rezeda Ivanova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Rezeda Ivanova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktibra<br/>\n
+..\\Parameters\\common.h(235):               Sibai<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1793 <BR/> (CC: x-8888)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 981 leaves Zurich  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="202" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="41163016-155454-RS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Rezeda Safronova      <li><i>Vitaly Petrov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Rezeda Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Perm<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 906 <BR/> (CC: x-1111)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       07/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 401 leaves Paris  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="203" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3703697107-1561684-KS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Safronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1903 <BR/> (CC: x-9999)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 982 leaves Zurich  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="204" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="205758972-156962-gK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Kuznecov      <li><i>Sergey Kazarin \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Kuznecov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 506 <BR/> (CC: x-5555)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       03/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 492 leaves Paris  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="205" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="205776063-1577086-PK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Kazarin      <li><i>Vitaly Petrov       <li><i> RimmaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Kazarin\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kommunistic<br/>\n
+..\\Parameters\\common.h(235):               Perm<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 2124 <BR/> (CC: x-5555)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 953 leaves Zurich  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="206" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="2469255-1584-SP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Svetlana Petrov      <li><i>Vitaly Petrov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Svetlana Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Gagarina<br/>\n
+..\\Parameters\\common.h(235):               Sibai<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       08/06/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 990 leaves Zurich  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="207" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="246907120-159250-PP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Pacha Petrov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Pacha Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktiabra<br/>\n
+..\\Parameters\\common.h(235):               Sibai<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 253 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       09/05/2023 \n
+..\\Parameters\\common.h(235):      :  5pm : Flight 492 leaves Paris  for Zurich.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="208" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="82311164-160034-PP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Petr Petrov\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Petr Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kommunistic<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 453 <BR/> (CC: x-2222)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       03/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 401 leaves Paris  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="209" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="3292030068-1608118-gP"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Petrov      <li><i>Dima Petrov       <li><i> AnnaSafronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Petrov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Oktiabra<br/>\n
+..\\Parameters\\common.h(235):               Tyla<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 5535 <BR/> (CC: x-8888)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       07/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 481 leaves Paris  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="210" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="14873-1615474-gK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> gennadiy Kukushkina      <li><i>Vitaly Sidorov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               gennadiy Kukushkina\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Piter<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 1172 <BR/> (CC: x-0000)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  1pm : Flight 401 leaves Paris  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="211" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="246903728-162358-KS"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A First class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Kolia Safronova\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Kolia Safronova\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Nevskogo<br/>\n
+..\\Parameters\\common.h(235):               samara<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 657 <BR/> (CC: x-6666)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       01/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 400 leaves Paris  for Denver.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="212
+..\\Parameters\\common.h(235): t=1126722ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     1000\r\n
+..\\Parameters\\common.h(235): t=1126722ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     2000\r\n
+..\\Parameters\\common.h(235): t=1126722ms: 12271-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     " value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="1234611154-1630948-RK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;2 First class tickets for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Rezeda Kuznecov      <li><i>Vitaly Petrov \n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Rezeda Kuznecov\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Kreml<br/>\n
+..\\Parameters\\common.h(235):               Perm<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 2330 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       03/05/2023 \n
+..\\Parameters\\common.h(235):      :  8am : Flight 450 leaves Paris  for Portland.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <!-- Flight #1 -->\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\Parameters\\common.h(235):     <b>\n
+..\\Parameters\\common.h(235):     <label><input type="checkbox" name="213" value="on" /></label></font></b>\n
+..\\Parameters\\common.h(235):     <input type="hidden" name="flightID" value="1234771-1638-SK"  />\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign="top">\n
+..\\Parameters\\common.h(235):           <b>&nbsp;&nbsp;A Business class ticket for :</b><br/>\n
+..\\Parameters\\common.h(235):           <center><table border="0" width="85%"><tr><td>\n
+..\\Parameters\\common.h(235):           <li><i> Svetlana Kazarin\n
+..\\Parameters\\common.h(235):           <li><i></i>\n
+..\\Parameters\\common.h(235):           </td></tr></table></center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\Parameters\\common.h(235):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\Parameters\\common.h(235):           <center>\n
+..\\Parameters\\common.h(235):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\Parameters\\common.h(235):               Svetlana Kazarin\n
+..\\Parameters\\common.h(235):     <br/>\n
+..\\Parameters\\common.h(235):               Krasnaia<br/>\n
+..\\Parameters\\common.h(235):               Tyla<br/>\n
+..\\Parameters\\common.h(235):               <br/>\n
+..\\Parameters\\common.h(235):               Total Charge: $ 0 <BR/> (CC: x-3333)\n
+..\\Parameters\\common.h(235):           </td> </tr> </table>\n
+..\\Parameters\\common.h(235):           </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="3">\n
+..\\Parameters\\common.h(235):       <b>Flight Details:</b><BR/>  <center>\n
+..\\Parameters\\common.h(235):       05/05/2023 \n
+..\\Parameters\\common.h(235):      :  11pm : Flight 883 leaves Sydney  for Sydney.<br>  </center>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TR bgcolor="#EFF2F7">\n
+..\\Parameters\\common.h(235):       <TD COLSPAN="4">\n
+..\\Parameters\\common.h(235):       <hr/>\n
+..\\Parameters\\common.h(235):       </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     <TR>\n
+..\\Parameters\\common.h(235):        <TD align="center" COLSPAN="4">\n
+..\\Parameters\\common.h(235):        <b>A total of 213 scheduled flights.</font></b>\n
+..\\Parameters\\common.h(235):        </TD>\n
+..\\Parameters\\common.h(235):     </TR>\n
+..\\Parameters\\common.h(235):     </TABLE>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+..\\Parameters\\common.h(235):     <TR>\n
+..\\Parameters\\common.h(235):     <TD align="left" width="50%" >\n
+..\\Parameters\\common.h(235):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+..\\Parameters\\common.h(235):     er="0" /></TD>\n
+..\\Parameters\\common.h(235):     <TD align="right" width="50%" >\n
+..\\Parameters\\common.h(235):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+..\\Parameters\\common.h(235):     f" border="0" /></TD>\n
+..\\Parameters\\common.h(235):     </TABLE>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     <div><input type="hidden" name=".cgifields" value="127"  /><input type="hidden" name=".cgi
+..\\Parameters\\common.h(235):     fields" value="32"  /><input type="hidden" name=".cgifields" value="90"  /><input type="hi
+..\\Parameters\\common.h(235):     dden" name=".cgifields" value="206"  /><input type="hidden" name=".cgifields" value="118" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="71"  /><input type="hidden" name=".cgifie
+..\\Parameters\\common.h(235):     lds" value="102"  /><input type="hidden" name=".cgifields" value="200"  /><input type="hid
+..\\Parameters\\common.h(235):     den" name=".cgifields" value="18"  /><input type="hidden" name=".cgifields" value="125"  /
+..\\Parameters\\common.h(235):     ><input type="hidden" name=".cgifields" value="16"  /><input type="hidden" name=".cgifield
+..\\Parameters\\common.h(235):     s" value="44"  /><input type="hidden" name=".cgifields" value="55"  /><input type="hidden"
+..\\Parameters\\common.h(235):      name=".cgifields" value="84"  /><input type="hidden" name=".cgifields" value="27"  /><inp
+..\\Parameters\\common.h(235):     ut type="hidden" name=".cgifields" value="190"  /><input type="hidden" name=".cgifields" v
+..\\Parameters\\common.h(235):     alue="161"  /><input type="hidden" name=".cgifields" value="194"  /><input type="hidden" n
+..\\Parameters\\common.h(235):     ame=".cgifields" value="95"  /><input type="hidden" name=".cgifields" value="57"  /><input
+..\\Parameters\\common.h(235):      type="hidden" name=".cgifields" value="20"  /><input type="hidden" name=".cgifields" valu
+..\\Parameters\\common.h(235):     e="163"  /><input type="hidden" name=".cgifields" value="109"  /><input type="hidden" name
+..\\Parameters\\common.h(235):     =".cgifields" value="151"  /><input type="hidden" name=".cgifields" value="89"  /><input t
+..\\Parameters\\common.h(235):     ype="hidden" name=".cgifields" value="175"  /><input type="hidden" name=".cgifields" value
+..\\Parameters\\common.h(235):     ="148"  /><input type="hidden" name=".cgifields" value="31"  /><input type="hidden" name="
+..\\Parameters\\common.h(235):     .cgifields" value="35"  /><input type="hidden" name=".cgifields" value="11"  /><input type
+..\\Parameters\\common.h(235):     ="hidden" name=".cgifields" value="208"  /><input type="hidden" name=".cgifields" value="7
+..\\Parameters\\common.h(235):     8"  /><input type="hidden" name=".cgifields" value="93"  /><input type="hidden" name=".cgi
+..\\Parameters\\common.h(235):     fields" value="106"  /><input type="hidden" name=".cgifields" value="157"  /><input type="
+..\\Parameters\\common.h(235):     hidden" name=".cgifields" value="65"  /><input type="hidden" name=".cgifields" value="29" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="197"  /><input type="hidden" name=".cgifi
+..\\Parameters\\common.h(235):     elds" value="203"  /><input type="hidden" name=".cgifields" value="138"  /><input type="hi
+..\\Parameters\\common.h(235):     dden" name=".cgifields" value="199"  /><input type="hidden" name=".cgifields" value="114" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="58"  /><input type="hidden" name=".cgifie
+..\\Parameters\\common.h(235):     lds" value="211"  /><input type="hidden" name=".cgifields" value="153"  /><input type="hid
+..\\Parameters\\common.h(235):     den" name=".cgifields" value="15"  /><input type="hidden" name=".cgifields" value="137"  /
+..\\Parameters\\common.h(235):     ><input type="hidden" name=".cgifields" value="81"  /><input type="hidden" name=".cgifield
+..\\Parameters\\common.h(235):     s" value="60"  /><input type="hidden" name=".cgifields" value="101"  /><input type="hidden
+..\\Parameters\\common.h(235):     " name=".cgifields" value="73"  /><input type="hidden" name=".cgifields" value="86"  /><in
+..\\Parameters\\common.h(235):     put type="hidden" name=".cgifields" value="76"  /><input type="hidden" name=".cgifields" v
+..\\Parameters\\common.h(235):     alue="62"  /><input type="hidden" name=".cgifields" value="67"  /><input type="hidden" nam
+..\\Parameters\\common.h(235):     e=".cgifields" value="204"  /><input type="hidden" name=".cgifields" value="165"  /><input
+..\\Parameters\\common.h(235):      type="hidden" name=".cgifields" value="198"  /><input type="hidden" name=".cgifields" val
+..\\Parameters\\common.h(235):     ue="139"  /><input type="hidden" name=".cgifields" value="129"  /><input type="hidden" nam
+..\\Parameters\\common.h(235):     e=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value="17"  /><input ty
+..\\Parameters\\common.h(235):     pe="hidden" name=".cgifields" value="186"  /><input type="hidden" name=".cgifields" value=
+..\\Parameters\\common.h(235):     "110"  /><input type="hidden" name=".cgifields" value="82"  /><input type="hidden" name=".
+..\\Parameters\\common.h(235):     cgifields" value="147"  /><input type="hidden" name=".cgifields" value="202"  /><input typ
+..\\Parameters\\common.h(235):     e="hidden" name=".cgifields" value="168"  /><input type="hidden" name=".cgifields" value="
+..\\Parameters\\common.h(235):     184"  /><input type="hidden" name=".cgifields" value="135"  /><input type="hidden" name=".
+..\\Parameters\\common.h(235):     cgifields" value="14"  /><input type="hidden" name=".cgifields" value="112"  /><input type
+..\\Parameters\\common.h(235):     ="hidden" name=".cgifields" value="69"  /><input type="hidden" name=".cgifields" value="19
+..\\Parameters\\common.h(235):     1"  /><input type="hidden" name=".cgifields" value="172"  /><input type="hidden" name=".cg
+..\\Parameters\\common.h(235):     ifields" value="145"  /><input type="hidden" name=".cgifields" value="49"  /><input type="
+..\\Parameters\\common.h(235):     hidden" name=".cgifields" value="178"  /><input type="hidden" name=".cgifields" value="24"
+..\\Parameters\\common.h(235):       /><input type="hidden" name=".cgifields" value="187"  /><input type="hidden" name=".cgif
+..\\Parameters\\common.h(235):     ields" value="140"  /><input type="hidden" name=".cgifields" value="124"  /><input type="h
+..\\Parameters\\common.h(235):     idden" name=".cgifields" value="104"  /><input type="hidden" name=".cgifields" value="131"
+..\\Parameters\\common.h(235):       /><input type="hidden" name=".cgifields" value="181"  /><input type="hidden" name=".cgif
+..\\Parameters\\common.h(235):     ields" value="121"  /><input type="hidden" name=".cgifields" value="79"  /><input type="hi
+..\\Parameters\\common.h(235):     dden" name=".cgifields" value="212"  /><input type="hidden" name=".cgifields" value="154" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifie
+..\\Parameters\\common.h(235):     lds" value="96"  /><input type="hidden" name=".cgifields" value="126"  /><input type="hidd
+..\\Parameters\\common.h(235):     en" name=".cgifields" value="159"  /><input type="hidden" name=".cgifields" value="160"  /
+..\\Parameters\\common.h(235):     ><input type="hidden" name=".cgifields" value="176"  /><input type="hidden" name=".cgifiel
+..\\Parameters\\common.h(235):     ds" value="47"  /><input type="hidden" name=".cgifields" value="8"  /><input type="hidden"
+..\\Parameters\\common.h(235):      name=".cgifields" value="209"  /><input type="hidden" name=".cgifields" value="98"  /><in
+..\\Parameters\\common.h(235):     put type="hidden" name=".cgifields" value="37"  /><input type="hidden" name=".cgifields" v
+..\\Parameters\\common.h(235):     alue="117"  /><input type="hidden" name=".cgifields" value="43"  /><input type="hidden" na
+..\\Parameters\\common.h(235):     me=".cgifields" value="195"  /><input type="hidden" name=".cgifields" value="5"  /><input 
+..\\Parameters\\common.h(235):     type="hidden" name=".cgifields" value="170"  /><input type="hidden" name=".cgifields" valu
+..\\Parameters\\common.h(235):     e="33"  /><input type="hidden" name=".cgifields" value="21"  /><input type="hidden" name="
+..\\Parameters\\common.h(235):     .cgifields" value="63"  /><input type="hidden" name=".cgifields" value="7"  /><input type=
+..\\Parameters\\common.h(235):     "hidden" name=".cgifields" value="26"  /><input type="hidden" name=".cgifields" value="80"
+..\\Parameters\\common.h(235):       /><input type="hidden" name=".cgifields" value="193"  /><input type="hidden" name=".cgif
+..\\Parameters\\common.h(235):     ields" value="119"  /><input type="hidden" name=".cgifields" value="180"  /><input type="h
+..\\Parameters\\common.h(235):     idden" name=".cgifields" value="99"  /><input type="hidden" name=".cgifields" value="179" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="162"  /><input type="hidden" name=".cgifi
+..\\Parameters\\common.h(235):     elds" value="72"  /><input type="hidden" name=".cgifields" value="74"  /><input type="hidd
+..\\Parameters\\common.h(235):     en" name=".cgifields" value="182"  /><input type="hidden" name=".cgifields" value="61"  />
+..\\Parameters\\common.h(235):     <input type="hidden" name=".cgifields" value="108"  /><input type="hidden" name=".cgifield
+..\\Parameters\\common.h(235):     s" value="115"  /><input type="hidden" name=".cgifields" value="92"  /><input type="hidden
+..\\Parameters\\common.h(235):     " name=".cgifields" value="103"  /><input type="hidden" name=".cgifields" value="201"  /><
+..\\Parameters\\common.h(235):     input type="hidden" name=".cgifields" value="10"  /><input type="hidden" name=".cgifields"
+..\\Parameters\\common.h(235):      value="113"  /><input type="hidden" name=".cgifields" value="152"  /><input type="hidden"
+..\\Parameters\\common.h(235):      name=".cgifields" value="189"  /><input type="hidden" name=".cgifields" value="207"  /><i
+..\\Parameters\\common.h(235):     nput type="hidden" name=".cgifields" value="142"  /><input type="hidden" name=".cgifields"
+..\\Parameters\\common.h(235):      value="91"  /><input type="hidden" name=".cgifields" value="167"  /><input type="hidden" 
+..\\Parameters\\common.h(235):     name=".cgifields" value="48"  /><input type="hidden" name=".cgifields" value="107"  /><inp
+..\\Parameters\\common.h(235):     ut type="hidden" name=".cgifields" value="87"  /><input type="hidden" name=".cgifields" va
+..\\Parameters\\common.h(235):     lue="174"  /><input type="hidden" name=".cgifields" value="77"  /><input type="hidden" nam
+..\\Parameters\\common.h(235):     e=".cgifields" value="133"  /><input type="hidden" name=".cgifields" value="149"  /><input
+..\\Parameters\\common.h(235):      type="hidden" name=".cgifields" value="123"  /><input type="hidden" name=".cgifields" val
+..\\Parameters\\common.h(235):     ue="50"  /><input type="hidden" name=".cgifields" value="39"  /><input type="hidden" name=
+..\\Parameters\\common.h(235):     ".cgifields" value="210"  /><input type="hidden" name=".cgifields" value="64"  /><input ty
+..\\Parameters\\common.h(235):     pe="hidden" name=".cgifields" value="97"  /><input type="hidden" name=".cgifields" value="
+..\\Parameters\\common.h(235):     12"  /><input type="hidden" name=".cgifields" value="41"  /><input type="hidden" name=".cg
+..\\Parameters\\common.h(235):     ifields" value="52"  /><input type="hidden" name=".cgifields" value="173"  /><input type="
+..\\Parameters\\common.h(235):     hidden" name=".cgifields" value="56"  /><input type="hidden" name=".cgifields" value="45" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="66"  /><input type="hidden" name=".cgifie
+..\\Parameters\\common.h(235):     lds" value="19"  /><input type="hidden" name=".cgifields" value="54"  /><input type="hidde
+..\\Parameters\\common.h(235):     n" name=".cgifields" value="70"  /><input type="hidden" name=".cgifields" value="188"  /><
+..\\Parameters\\common.h(235):     input type="hidden" name=".cgifields" value="68"  /><input type="hidden" name=".cgifields"
+..\\Parameters\\common.h(235):      value="166"  /><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" n
+..\\Parameters\\common.h(235):     ame=".cgifields" value="136"  /><input type="hidden" name=".cgifields" value="88"  /><inpu
+..\\Parameters\\common.h(235):     t type="hidden" name=".cgifields" value="116"  /><input type="hidden" name=".cgifields" va
+..\\Parameters\\common.h(235):     lue="144"  /><input type="hidden" name=".cgifields" value="141"  /><input type="hidden" na
+..\\Parameters\\common.h(235):     me=".cgifields" value="30"  /><input type="hidden" name=".cgifields" value="100"  /><input
+..\\Parameters\\common.h(235):      type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".cgifields" valu
+..\\Parameters\\common.h(235):     e="128"  /><input type="hidden" name=".cgifields" value="28"  /><input type="hidden" name=
+..\\Parameters\\common.h(235):     ".cgifields" value="120"  /><input type="hidden" name=".cgifields" value="156"  /><input t
+..\\Parameters\\common.h(235):     ype="hidden" name=".cgifields" value="134"  /><input type="hidden" name=".cgifields" value
+..\\Parameters\\common.h(235):     ="40"  /><input type="hidden" name=".cgifields" value="75"  /><input type="hidden" name=".
+..\\Parameters\\common.h(235):     cgifields" value="83"  /><input type="hidden" name=".cgifields" value="192"  /><input type
+..\\Parameters\\common.h(235):     ="hidden" name=".cgifields" value="59"  /><input type="hidden" name=".cgifields" value="17
+..\\Parameters\\common.h(235):     7"  /><input type="hidden" name=".cgifields" value="150"  /><input type="hidden" name=".cg
+..\\Parameters\\common.h(235):     ifields" value="155"  />
+..\\Parameters\\common.h(235): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common.h(235): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common.h(235): t=1126725ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     4b6\r\n
+..\\Parameters\\common.h(235): t=1126725ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235):     0\r\n
+..\\Parameters\\common.h(235):     \r\n
+..\\Parameters\\common.h(235): t=1126725ms: 1696-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1, Internal ID=569)
+..\\Parameters\\common.h(235):     <input type="hidden" name=".cgifields" value="130"  /><input type="hidden" name=".cgifield
+..\\Parameters\\common.h(235):     s" value="53"  /><input type="hidden" name=".cgifields" value="122"  /><input type="hidden
+..\\Parameters\\common.h(235):     " name=".cgifields" value="143"  /><input type="hidden" name=".cgifields" value="205"  /><
+..\\Parameters\\common.h(235):     input type="hidden" name=".cgifields" value="158"  /><input type="hidden" name=".cgifields
+..\\Parameters\\common.h(235):     " value="42"  /><input type="hidden" name=".cgifields" value="22"  /><input type="hidden" 
+..\\Parameters\\common.h(235):     name=".cgifields" value="46"  /><input type="hidden" name=".cgifields" value="13"  /><inpu
+..\\Parameters\\common.h(235):     t type="hidden" name=".cgifields" value="105"  /><input type="hidden" name=".cgifields" va
+..\\Parameters\\common.h(235):     lue="6"  /><input type="hidden" name=".cgifields" value="85"  /><input type="hidden" name=
+..\\Parameters\\common.h(235):     ".cgifields" value="185"  /><input type="hidden" name=".cgifields" value="36"  /><input ty
+..\\Parameters\\common.h(235):     pe="hidden" name=".cgifields" value="3"  /><input type="hidden" name=".cgifields" value="2
+..\\Parameters\\common.h(235):     13"  /><input type="hidden" name=".cgifields" value="183"  /><input type="hidden" name=".c
+..\\Parameters\\common.h(235):     gifields" value="94"  /><input type="hidden" name=".cgifields" value="146"  /><input type=
+..\\Parameters\\common.h(235):     "hidden" name=".cgifields" value="51"  /><input type="hidden" name=".cgifields" value="9" 
+..\\Parameters\\common.h(235):      /><input type="hidden" name=".cgifields" value="111"  /><input type="hidden" name=".cgifi
+..\\Parameters\\common.h(235):     elds" value="38"  /><input type="hidden" name=".cgifields" value="4"  /><input type="hidde
+..\\Parameters\\common.h(235):     n" name=".cgifields" value="34"  /><input type="hidden" name=".cgifields" value="169"  /><
+..\\Parameters\\common.h(235):     input type="hidden" name=".cgifields" value="164"  /><input type="hidden" name=".cgifields
+..\\Parameters\\common.h(235):     " value="132"  /><input type="hidden" name=".cgifields" value="196"  /><input type="hidden
+..\\Parameters\\common.h(235):     " name=".cgifields" value="171"  /></div></form>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     </center>\n
+..\\Parameters\\common.h(235):     \n
+..\\Parameters\\common.h(235):     </body>\n
+..\\Parameters\\common.h(235):     </html>
+..\\Parameters\\common.h(235): Registered web_reg_find successful for "Text=411811168-7812-AK"  	[MsgId: MMSG-26362]
+..\\Parameters\\common.h(235): Registered web_reg_find successful for "Text=Flights List" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(235): web_submit_form("itinerary.pl") was successful, 250938 body bytes, 256 header bytes, 491 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common.h(243): Notify: Transaction "Cancel_reservation" ended with a "Pass" status (Duration: 0,2235 Wasted Time: 0,0039).	[MsgId: MMSG-16871]
+Action.c(39): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+..\\Parameters\\common.h(118): Notify: Transaction "log_out" started.	[MsgId: MMSG-16999]
+..\\Parameters\\common.h(120): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(120): Warning -26590: web_remove/revert_auto_header for "Origin" had no effect  	[MsgId: MWAR-26590]
+..\\Parameters\\common.h(120): web_remove/revert_auto_header("Origin") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\common.h(122): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(122): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(125): web_url("SignOff Button") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(125): t=1131766ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=570)
+..\\Parameters\\common.h(125):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(125):     Date: Sat, 20 May 2023 12:54:09 GMT\r\n
+..\\Parameters\\common.h(125):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(125):     Set-Cookie: MSO=SID&1684587249; path=/\r\n
+..\\Parameters\\common.h(125):     Set-Cookie: MTUserInfo=; path=/; expires=Fri, 19-May-2023 12:54:09 GMT\r\n
+..\\Parameters\\common.h(125):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(125):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(125):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(125):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1131766ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=570)
+..\\Parameters\\common.h(125):     2ae\r\n
+..\\Parameters\\common.h(125): t=1131766ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=570)
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1131766ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=570)
+..\\Parameters\\common.h(125):     <!-- \n
+..\\Parameters\\common.h(125):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\Parameters\\common.h(125):      Also, the server options have been loaded into the cookie called\n
+..\\Parameters\\common.h(125):      MSO as well.  The server options can be set via the Admin page.\n
+..\\Parameters\\common.h(125):      --->\n
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     <html>\n
+..\\Parameters\\common.h(125):     <title>Web Tours</title>\n
+..\\Parameters\\common.h(125):        <!-- Frame Set -->\n
+..\\Parameters\\common.h(125):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\Parameters\\common.h(125):           <!-- Navigation Frame -->\n
+..\\Parameters\\common.h(125):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common.h(125):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(125):           <!-- Home Frame -->\n
+..\\Parameters\\common.h(125):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\Parameters\\common.h(125):                 noresize="noresize" scrolling="auto"/>\n
+..\\Parameters\\common.h(125):        </frameset>\n
+..\\Parameters\\common.h(125):     </html>\n
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     </body>\n
+..\\Parameters\\common.h(125):     </html>
+..\\Parameters\\common.h(125): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(125): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+..\\Parameters\\common.h(125): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+..\\Parameters\\common.h(125): t=1131766ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=572)
+..\\Parameters\\common.h(125):     <HTML>\n
+..\\Parameters\\common.h(125):     <HEAD>\n
+..\\Parameters\\common.h(125):     \t<title>Web Tours</title>\n
+..\\Parameters\\common.h(125):     </HEAD>\n
+..\\Parameters\\common.h(125):     <style>\n
+..\\Parameters\\common.h(125):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(125):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\Parameters\\common.h(125):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(125):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(125):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\Parameters\\common.h(125):     N: none}\n
+..\\Parameters\\common.h(125):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\Parameters\\common.h(125):     CORATION: underline}\n
+..\\Parameters\\common.h(125):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(125):     </style>\n
+..\\Parameters\\common.h(125):     <body bgcolor="#e0e7f1">\n
+..\\Parameters\\common.h(125):     <BR/>\n
+..\\Parameters\\common.h(125):     <BR/>\n
+..\\Parameters\\common.h(125):     <BR/>\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     <table border="0">\n
+..\\Parameters\\common.h(125):     <tr><td></td></tr>\n
+..\\Parameters\\common.h(125):     <TR><TD></TD></TR>\n
+..\\Parameters\\common.h(125):     <TR><TD>\n
+..\\Parameters\\common.h(125):     <blockquote>\n
+..\\Parameters\\common.h(125):     <H1><b>Web Tours</b></H1>\n
+..\\Parameters\\common.h(125):     Welcome to the Web Tours site.\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     To make reservations,please enter your account information to the left.\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\Parameters\\common.h(125):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\Parameters\\common.h(125):     <br/>\n
+..\\Parameters\\common.h(125):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\Parameters\\common.h(125):     tration</b></A> link.\n
+..\\Parameters\\common.h(125):     <br/><br/><br/><br/><br/><br/>\n
+..\\Parameters\\common.h(125):     <br/><small>\n
+..\\Parameters\\common.h(125):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\Parameters\\common.h(125):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\Parameters\\common.h(125):     </small>\n
+..\\Parameters\\common.h(125):     </blockquote></TD>\n
+..\\Parameters\\common.h(125):     <TD></TD></TR>\n
+..\\Parameters\\common.h(125):     </table>\n
+..\\Parameters\\common.h(125):     </body>\n
+..\\Parameters\\common.h(125):     </HTML>\n
+..\\Parameters\\common.h(125): t=1131768ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=570)
+..\\Parameters\\common.h(125):     0\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1131810ms: 256-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=571)
+..\\Parameters\\common.h(125):     HTTP/1.1 200 OK\r\n
+..\\Parameters\\common.h(125):     Date: Sat, 20 May 2023 12:54:09 GMT\r\n
+..\\Parameters\\common.h(125):     Server: Apache/2.2.21 (Win32)\r\n
+..\\Parameters\\common.h(125):     Expires: Fri, 19 May 2023 12:54:09 GMT\r\n
+..\\Parameters\\common.h(125):     Keep-Alive: timeout=5, max=100\r\n
+..\\Parameters\\common.h(125):     Connection: Keep-Alive\r\n
+..\\Parameters\\common.h(125):     Transfer-Encoding: chunked\r\n
+..\\Parameters\\common.h(125):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1131810ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=571)
+..\\Parameters\\common.h(125):     5ce\r\n
+..\\Parameters\\common.h(125): t=1131810ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=571)
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): t=1131810ms: 1486-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=571)
+..\\Parameters\\common.h(125):     <!DOCTYPE html\n
+..\\Parameters\\common.h(125):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\Parameters\\common.h(125):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\Parameters\\common.h(125):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\Parameters\\common.h(125):     <head>\n
+..\\Parameters\\common.h(125):     <title>Web Tours Navigation Bar</title>\n
+..\\Parameters\\common.h(125):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\Parameters\\common.h(125):     </head>\n
+..\\Parameters\\common.h(125):     <body bgcolor="#E0E7F1">\n
+..\\Parameters\\common.h(125):     <style>\n
+..\\Parameters\\common.h(125):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\Parameters\\common.h(125):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\Parameters\\common.h(125):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\Parameters\\common.h(125):     small {font-family: tahoma; font-size : 8pt}\n
+..\\Parameters\\common.h(125):     </style>\n
+..\\Parameters\\common.h(125):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\Parameters\\common.h(125):     <input type="hidden" name="userSession" value="136459.072417983HAVQVVDpfDHftcVVtpziVccf"/>
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><small>&nbsp;Password</small></td>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td>\n
+..\\Parameters\\common.h(125):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\Parameters\\common.h(125):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\Parameters\\common.h(125):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\Parameters\\common.h(125):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\Parameters\\common.h(125):     </form>\n
+..\\Parameters\\common.h(125):     \n
+..\\Parameters\\common.h(125):     </body>\n
+..\\Parameters\\common.h(125):     </html>\n
+..\\Parameters\\common.h(125): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\Parameters\\common.h(125): t=1131812ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=571)
+..\\Parameters\\common.h(125):     0\r\n
+..\\Parameters\\common.h(125):     \r\n
+..\\Parameters\\common.h(125): Registered web_reg_find successful for "Text=A Session ID has been created" (count=1)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(125): web_url("SignOff Button") was successful, 2172 body bytes, 584 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+..\\Parameters\\common.h(135): Notify: Transaction "log_out" ended with a "Pass" status (Duration: 0,0854 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(42): Notify: Transaction "2_script_delete_reservation" ended with a "Pass" status (Duration: 20,7825 Think Time: 20,0278 Wasted Time: 0,0045).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 3 (thread 8064), ended OK."	[MsgId: MMSG-10695]
