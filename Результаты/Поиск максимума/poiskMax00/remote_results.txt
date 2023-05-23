@@ -1,2 +1,0 @@
-[Hosts]
-localhost=c:\resultlr\poiskMax00\localhost_1.eve

@@ -1,2 +1,0 @@
-[Hosts]
-localhost=c:\resultlr\result0\localhost_1.eve

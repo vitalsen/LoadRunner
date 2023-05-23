@@ -1,5 +1,0 @@
-[Diagnostics]
-Status=-1
-[Collate Recovery]
-Scenario=C:\ScenarioLR\Тест поиск максимума.lrs
-Completed=0
